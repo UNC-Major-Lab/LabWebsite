@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+    <url> 
+		<loc>http://cancer.unc.edu/majorlab/</loc> 
+  	</url>
+	<url> 
+    	<loc>http://cancer.unc.edu/majorlab/research.php</loc> 
+  	</url>
+	<url> 
+	    <loc>http://cancer.unc.edu/majorlab/people.php</loc> 
+	  </url>
+	<url> 
+	    <loc>http://cancer.unc.edu/majorlab/equipment.php</loc> 
+	  </url>
+	<url> 
+	    <loc>http://cancer.unc.edu/majorlab/news.php</loc> 
+	  </url>
+	<url> 
+	    <loc>http://cancer.unc.edu/majorlab/contact.php</loc> 
+	  </url>
+	<url> 
+	    <loc>http://cancer.unc.edu/majorlab/publications.php</loc> 
+	  </url>
+	<url> 
+	    <loc>http://cancer.unc.edu/majorlab/software.php</loc> 
+	</url>
+	<url> 
+	    <loc>http://cancer.unc.edu/majorlab/positions.php</loc> 
+	</url>
+	<url> 
+	    <loc>http://cancer.unc.edu/majorlab/reagents.php</loc> 
+	</url>
+</urlset>

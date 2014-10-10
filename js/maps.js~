@@ -1,0 +1,33 @@
+function initialize() {
+
+    var lineberger = new google.maps.LatLng(35.903182, -79.053606);
+    var mapOptions = {
+        center: lineberger,
+        zoom: 16,
+	disableDefaultUI: true,
+	panControl: false,
+	zoomControl: true,
+	mapTypeControl: false,
+	scaleControl: false,
+	streetViewControl: false,
+	overviewMapControl: false,
+        mapTypeId: google.maps.MapTypeId.ROADMAP
+    };
+    var map = new google.maps.Map(document.getElementById("map_canvas"),
+				  mapOptions);
+
+    var marker = new google.maps.Marker({
+	position: lineberger,
+	title: "Major Lab!"
+    });
+
+    var infowindow = new google.maps.InfoWindow({
+	content: "Major Lab!"
+    });
+
+    marker.setMap(map);
+
+    google.maps.event.addListener(marker, 'click', function() {
+	infowindow.open(map,marker);
+    });
+}

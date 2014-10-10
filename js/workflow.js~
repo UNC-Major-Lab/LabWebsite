@@ -1,0 +1,70 @@
+var interval;
+var timestep;
+var direction;
+var max_steps = 1000.0;
+
+function translate(start,end) {
+    return start + ((end-start)/(timestep/max_steps));
+}
+
+function drawWorkflow() {
+    var canvas = document.getElementById('workflow_canvas');
+    var div = document.getElementById('splash-center');
+    canvas.height = div.offsetHeight;
+    canvas.width  = div.offsetWidth;
+    if (canvas.getContext){
+    	var ctx = canvas.getContext('2d');
+   
+
+	// Draw 3 circles at proper positions
+	// Draw 4 labels at proper positions and opacity
+	ctx.fillStyle="#56A0D3";
+     	ctx.strokeStyle="#1661E6";
+    	ctx.lineWidth = 1;
+	ctx.beginPath();
+	ctx.arc(translate(0,50),translate(0,50),50,0,2*Math.PI,false);
+	ctx.stroke();
+
+	ctx.fillStyle="#2CC503";
+        ctx.strokeStyle="#248576";
+        ctx.lineWidth = 1;
+	ctx.beginPath();
+	ctx.arc(translate(100,50),translate(100,50),50,0,2*Math.PI,false);
+	ctx.stroke();
+
+	ctx.fillStyle="#FF7391";
+        ctx.strokeStyle="#B9001C";
+        ctx.lineWidth = 1;
+	ctx.beginPath();
+	ctx.arc(translate(100,50),translate(0,50),50,0,2*Math.PI,false);
+	ctx.stroke();
+
+    }
+}
+
+function drawWorkflowStep() {
+    timestep += direction;
+    if (timestep >= max_steps or timestep =< 0) {
+	clearInterval(interval);
+    }
+    drawWorkflow();
+}
+
+function loadWorkflow() {
+
+    drawWorkflow();
+    timestep = 0;
+    direction = 1;
+
+    document.getElementById('workflow_canvas').onmouseover = function() {
+	direction = 1;
+	clearInterval(interval);
+	interval = setInterval(drawWorkflowStep, 50);
+    }
+    document.getElementById('workflow_canvas').onmouseout = function() {
+	direction = -1;
+	clearInterval(interval);
+	interval = setInterval(drawWorkflowStep, 50)
+    }
+	
+}

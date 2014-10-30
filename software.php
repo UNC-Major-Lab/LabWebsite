@@ -18,16 +18,16 @@
 	    </div>
 	    <div class="content">
 	      <!-- spotlite -->
-	      <div class="software-container spotlite">
-		<div class="software-img">
-		  <img src="img/spotlite_software.png" alt="Spotlite"/>
-		</div>
-		<div class="software-desc">
-		  <p class="software-title">Spotlite: A web server for predicting co-complexed proteins from affinity purification – mass spectrometry data
-		  </p>
-		  <p>
-		    Spotlite is a user-friendly web application for predicting complex co-membership from affinity purification - mass spectrometry data. This web application employs a logistic regression classifier that integrates existing, proven APMS scoring approaches (SAINT, CompPASS, and HGSCore), gene co-expression patterns, functional annotations, domain-domain binding affinity, and homologous interactions, which we have shown outperforms existing APMS scoring methods. Spotlite can be accessed <a href="http://warlock.med.unc.edu/spotlite" target="_blank">here</a>.
-		  </p>
+	    <div class="software-container spotlite" onclick="window.open('http://warlock.med.unc.edu/spotlite','new_window');"  style="cursor: pointer;">
+			<div class="software-img">
+		  	  <img src="img/spotlite_software.png" alt="Spotlite"/>
+			</div>
+			<div class="software-desc">
+		  	  <p class="software-title">Spotlite: A web server for predicting co-complexed proteins from affinity purification – mass spectrometry data
+		  	</p>
+		  	<p>
+		    Spotlite is a user-friendly web application for predicting complex co-membership from affinity purification - mass spectrometry data. This web application employs a logistic regression classifier that integrates existing, proven APMS scoring approaches (SAINT, CompPASS, and HGSCore), gene co-expression patterns, functional annotations, domain-domain binding affinity, and homologous interactions, which we have shown outperforms existing APMS scoring methods. Spotlite can be access <a href="http://warlock.med.unc.edu/spotlite" target="_blank">here</a>.
+		  	</p>
 		</div>
 		<!--<div style="clear:both"/>-->
 	      </div>

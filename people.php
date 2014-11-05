@@ -106,7 +106,7 @@
 										<div class="personCell">
 											<h3> Graduate Student </h3>
 											<img class="personImg" alt="Erica Cloer" src="img/erica.png"/>
-											<p>(blurry) <strong>Erica Cloer</strong></p>
+											<p><strong>Erica Cloer</strong></p>
 											<a href="mailto:erica_cloer@med.unc.edu" target="_blank">erica_cloer@med.unc.edu</a>
 											<p class="desc">Team Keap/Nrf.</p>
 										</div>

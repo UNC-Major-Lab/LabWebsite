@@ -1,86 +1,86 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <?php include "header.html" ?>
-    <title>Major Lab - Equipment</title>
-    <script type="text/javascript" src="js/google-analytics.js"></script>
-  </head>
-  <body>
-    <div id="wrap">
-      <?php include "navbar.html";?>
+<head>
+	<?php include "header.html" ?>
+	<title>Major Lab - Equipment</title>
+	<script type="text/javascript" src="js/google-analytics.js"></script>
+</head>
+<body>
+	<div id="wrap">
+		<?php include "navbar.html";?>
       
-      <div id="stripe2">
+		<div id="stripe2">
 	
-	<div id="str2">
-	  <div class="innerdiv">
-	    <div class="pageHeader">
-	      <h1>Equipment</h1>
-	    </div>
-	    <div class="content">
-	      <!-- Orbitrap -->
-	      <div class="equipment-container">
-		<div class="equipment-img img-right">
-		  <img src="img/equip/orbi.png" alt="Orbitrap"/>
-		</div>
+			<div id="str2">
+				<div class="innerdiv">
+					<div class="pageHeader">
+						<h1>Equipment</h1>
+					</div>
+					<div class="content">
+						<!-- Orbitrap -->
+						<div class="equipment-container">
+							<div class="equipment-img img-right">
+								<img src="img/equip/orbi.png" alt="Orbitrap"/>
+							</div>
 
-		<div class="equipment-desc desc-left">
-		  <p>
-		    It's a mass spec.
-		  </p>
-		</div>
-		<div style="clear:both"></div>
-	      </div>
-	      <!-- Plate reader -->
-	      <div class="equipment-container">
-		<div class="equipment-img img-left">
-		  <img src="img/equip/plate_reader.png" alt="Plate Reader"/>
-		</div>
+							<div class="equipment-desc desc-left">
+								<p>
+									It's a mass spec.
+								</p>
+							</div>
+							<div style="clear:both"></div>
+						</div>
+						<!-- Plate reader -->
+						<div class="equipment-container">
+							<div class="equipment-img img-left">
+								<img src="img/equip/plate_reader.png" alt="Plate Reader"/>
+							</div>
 
-		<div class="equipment-desc desc-right">
-		  <p>
-		    It's a plate reader.
-		  </p>
-		</div>
-		<div style="clear:both"></div>
-	      </div>
-	      <!-- Cellometer -->
-	      <div class="equipment-container">
-		<div class="equipment-img img-right">
-		  <img src="img/equip/cellometer.png" alt="Cellometer"/>
-		</div>
+							<div class="equipment-desc desc-right">
+								<p>
+									It's a plate reader.
+								</p>
+							</div>
+							<div style="clear:both"></div>
+						</div>
+						<!-- Cellometer -->
+						<div class="equipment-container">
+							<div class="equipment-img img-right">
+								<img src="img/equip/cellometer.png" alt="Cellometer"/>
+							</div>
 		
-		<div class="equipment-desc desc-left">
-		  It's a cellometer.
-		</div>
-		<div style="clear:both"></div>
-	      </div>
-	      <!-- Sorcerer -->
-	      <div class="equipment-container">
-		<div class="equipment-img img-left">
-		  <img src="img/equip/sorcerer.png" alt="Sorcerer"/>
-		</div>
+							<div class="equipment-desc desc-left">
+								It's a cellometer.
+							</div>
+							<div style="clear:both"></div>
+						</div>
+						<!-- Sorcerer -->
+						<div class="equipment-container">
+							<div class="equipment-img img-left">
+								<img src="img/equip/sorcerer.png" alt="Sorcerer"/>
+							</div>
 
-		<div class="equipment-desc desc-right">
-		  It's a server for mass spec data.
-		</div>
-		<div style="clear:both"></div>
-	      </div>
-	      <!-- Coffee -->
-	      <div class="equipment-container">
-		<div class="equipment-img img-right">
-		  <img src="img/equip/coffee.png" alt="Coffee"/>
-		</div>
+							<div class="equipment-desc desc-right">
+								It's a server for mass spec data.
+							</div>
+							<div style="clear:both"></div>
+						</div>
+						<!-- Coffee -->
+						<div class="equipment-container">
+							<div class="equipment-img img-right">
+								<img src="img/equip/coffee.png" alt="Coffee"/>
+							</div>
 
-		<div class="equipment-desc desc-left">
-		  Fuel.
+							<div class="equipment-desc desc-left">
+								Fuel.
+							</div>
+							<div style="clear:both"></div>
+						</div>
+					</div>
+				</div>
+			</div>
 		</div>
-		<div style="clear:both"></div>
-	      </div>
-	    </div>
-	  </div>
 	</div>
-      </div>
-    </div>
-    <?php include "footer.html"?>
-  </body>
+	<?php include "footer.html"?>
+</body>
 </html>

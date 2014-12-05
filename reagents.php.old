@@ -4,223 +4,223 @@ $privatekey = "6LcupdUSAAAAAJSIyjuvJF6TIC8Lr7VaRrUOhUPr";
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
   
-  $resp = recaptcha_check_answer ($privatekey,
-				  $_SERVER["REMOTE_ADDR"],
-				  $_POST["recaptcha_challenge_field"],
-				  $_POST["recaptcha_response_field"]);
+	$resp = recaptcha_check_answer ($privatekey,
+	$_SERVER["REMOTE_ADDR"],
+	$_POST["recaptcha_challenge_field"],
+	$_POST["recaptcha_response_field"]);
   
-  if (!$resp->is_valid) {
-    $error = $resp->error;
-  } else {
+	if (!$resp->is_valid) {
+		$error = $resp->error;
+	} else {
     
-    $todo = urlencode("formkey")."=dDVkVENuU1hqZDlZMTY2V0RfUl9JTWc6MQ&".urlencode("ifq")."&";
-    while (list($name, $value) = each($HTTP_POST_VARS)) {
-      if (substr($name,0,9) != "recaptcha") {
-	foreach (explode("_",$name) as $partName) {
-	  $todo.=$partName.".";
+		$todo = urlencode("formkey")."=dDVkVENuU1hqZDlZMTY2V0RfUl9JTWc6MQ&".urlencode("ifq")."&";
+		while (list($name, $value) = each($HTTP_POST_VARS)) {
+			if (substr($name,0,9) != "recaptcha") {
+				foreach (explode("_",$name) as $partName) {
+					$todo.=$partName.".";
+				}
+				$todo = rtrim($todo,".");
+				$todo.="=".$value."&";
+			}
+		}
+		$todo = rtrim($todo,"&");
+		$ch = curl_init('https://docs.google.com/spreadsheet/formResponse');
+		curl_setopt ($ch, CURLOPT_POST, 1);
+		curl_setopt ($ch, CURLOPT_POSTFIELDS, $todo);
+		curl_setopt ($ch, CURLOPT_HEADER, 0);
+		curl_setopt ($ch, CURLOPT_HTTPHEADER, Array("Content-Type: application/x-www-form-urlencoded"));
+		$output = curl_exec ($ch);
+		curl_close ($ch);
 	}
-	$todo = rtrim($todo,".");
-	$todo.="=".$value."&";
-      }
-    }
-    $todo = rtrim($todo,"&");
-    $ch = curl_init('https://docs.google.com/spreadsheet/formResponse');
-    curl_setopt ($ch, CURLOPT_POST, 1);
-    curl_setopt ($ch, CURLOPT_POSTFIELDS, $todo);
-    curl_setopt ($ch, CURLOPT_HEADER, 0);
-    curl_setopt ($ch, CURLOPT_HTTPHEADER, Array("Content-Type: application/x-www-form-urlencoded"));
-    $output = curl_exec ($ch);
-    curl_close ($ch);
-  }
 } else {
-  $error = "";
+	$error = "";
 }
 ?>
 
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <?php include "header.html";?>
-    <title>Major Lab - Reagents</title>
-    <script type="text/javascript">
-      function validateForm() {
-	  var input = document.getElementById("entry_0");
-	  var i = 0;
+<head>
+	<?php include "header.html";?>
+	<title>Major Lab - Reagents</title>
+	<script type="text/javascript">
+	function validateForm() {
+		var input = document.getElementById("entry_0");
+		var i = 0;
 
-	  do {
-	      i+=1;
-	      input = document.getElementById("entry_"+String(i));
-	  } while (input != null);
+		do {
+			i+=1;
+			input = document.getElementById("entry_"+String(i));
+		} while (input != null);
 
-	  return false;
-      }
-      /*
-      (function() {
-	  var divs = document.getElementById('ss-form').getElementsByTagName('div');
-	  var numDivs = divs.length;
-	  for (var j = 0; j < numDivs; j++) {
-	      if (divs[j].className == 'errorbox-bad') {
-		  divs[j].lastChild.firstChild.lastChild.focus();
-	          return;
-	      }
-	  }
-	  for (var i = 0; i < numDivs; i++) {
-	      var div = divs[i];
-	      if (div.className == 'ss-form-entry' && div.firstChild && div.firstChild.className == 'ss-q-title') {
-		  div.lastChild.focus();
-		  return;
-	      }
-	  }
-      })();
-     */
-    </script>
+		return false;
+	}
+	/*
+	(function() {
+	var divs = document.getElementById('ss-form').getElementsByTagName('div');
+	var numDivs = divs.length;
+	for (var j = 0; j < numDivs; j++) {
+	if (divs[j].className == 'errorbox-bad') {
+	divs[j].lastChild.firstChild.lastChild.focus();
+	return;
+	}
+	}
+	for (var i = 0; i < numDivs; i++) {
+	var div = divs[i];
+	if (div.className == 'ss-form-entry' && div.firstChild && div.firstChild.className == 'ss-q-title') {
+	div.lastChild.focus();
+	return;
+	}
+	}
+	})();
+	*/
+	</script>
     
-    <script type="text/javascript">
-      var RecaptchaOptions = {
-	  theme: 'white'
-      };
-    </script>
+	<script type="text/javascript">
+	var RecaptchaOptions = {
+		theme: 'white'
+	};
+	</script>
     
-  </head>
-  <body>
-    <?php include "navbar.html";?>
+</head>
+<body>
+	<?php include "navbar.html";?>
     
-    <div id="stripe2">
+	<div id="stripe2">
       
-      <div id="str2">
-	<div class="innerdiv">
-	  <div class="pageHeader">
-	    <h1>Reagents</h1>
-	  </div>
-	  <div> 
-	    <!-- <form action="https://docs.google.com/spreadsheet/formResponse?formkey=dDVkVENuU1hqZDlZMTY2V0RfUl9JTWc6MQ&amp;ifq" method="POST" id="ss-form">-->
-	    <!--<form action="php/index.php" method="POST" id="ss-form">-->
+		<div id="str2">
+			<div class="innerdiv">
+				<div class="pageHeader">
+					<h1>Reagents</h1>
+				</div>
+				<div> 
+					<!-- <form action="https://docs.google.com/spreadsheet/formResponse?formkey=dDVkVENuU1hqZDlZMTY2V0RfUl9JTWc6MQ&amp;ifq" method="POST" id="ss-form">-->
+					<!--<form action="php/index.php" method="POST" id="ss-form">-->
 
-	    <form action="" method="post" id="ss-form" onsubmit="return validateForm()">
-	      <div class="errorbox-good">
-		<div class="ss-item ss-item-required ss-text">
-		  <div class="ss-form-entry">
-		    <label class="ss-q-title" for="entry_0">Name<span class="ss-required-asterisk">*</span></label>
-		    <label class="ss-q-help" for="entry_0"></label>
-		    <input type="text" name="entry.0.single" value="" class="ss-q-short" id="entry_0"/>
-		  </div>
-		</div>
-	      </div>
-	      <div class="errorbox-good">
-		<div class="ss-item ss-item-required ss-text">
-		  <div class="ss-form-entry">
-		    <label class="ss-q-title" for="entry_1">Email address<span class="ss-required-asterisk">*</span></label>
-		    <label class="ss-q-help" for="entry_1"></label>
-		    <input type="text" name="entry.1.single" value="" class="ss-q-short" id="entry_1"/>
-		  </div>
-		</div>
-	      </div>
-	      <div class="errorbox-good">
-		<div class="ss-item  ss-text">
-		  <div class="ss-form-entry">
-		    <label class="ss-q-title" for="entry_2">Phone</label>
-		    <label class="ss-q-help" for="entry_2"></label>
-		    <input type="text" name="entry.2.single" value="" class="ss-q-short" id="entry_2"/>
-		  </div>
-		</div>
-	      </div>
-	      <div class="errorbox-good">
-		<div class="ss-item ss-item-required ss-text">
-		  <div class="ss-form-entry">
-		    <label class="ss-q-title" for="entry_3">Principal Investigator<span class="ss-required-asterisk">*</span></label>
-		    <label class="ss-q-help" for="entry_3"></label>
-		    <input type="text" name="entry.3.single" value="" class="ss-q-short" id="entry_3"/>
-		  </div>
-		</div>
-	      </div>
-	      <div class="errorbox-good">
-		<div class="ss-item ss-item-required ss-text">
-		  <div class="ss-form-entry">
-		    <label class="ss-q-title" for="entry_4">Institute/Company<span class="ss-required-asterisk">*</span></label>
-		    <label class="ss-q-help" for="entry_4"></label>
-		    <input type="text" name="entry.4.single" value="" class="ss-q-short" id="entry_4"/>
-		  </div>
-		</div>
-	      </div>
-	      <div class="errorbox-good">
-		<div class="ss-item ss-item-required ss-text">
-		  <div class="ss-form-entry">
-		    <label class="ss-q-title" for="entry_10">Mailing Address<span class="ss-required-asterisk">*</span></label>
-		    <label class="ss-q-help" for="entry_10"></label>
-		    <input type="text" name="entry.10.single" value="" class="ss-q-short" id="entry_10"/>
-		  </div>
-		</div>
-	      </div>
-	      <div class="errorbox-good">
-		<div class="ss-item ss-item-required ss-text">
-		  <div class="ss-form-entry">
-		    <label class="ss-q-title" for="entry_5">Requested Item<span class="ss-required-asterisk">*</span></label>
-		    <label class="ss-q-help" for="entry_5"></label>
-		    <input type="text" name="entry.5.single" value="" class="ss-q-short" id="entry_5"/>
-		  </div>
-		</div>
-	      </div>
-	      <div class="errorbox-good">
-		<div class="ss-item ss-item-required ss-text">
-		  <div class="ss-form-entry">
-		    <label class="ss-q-title" for="entry_6">Quantity<span class="ss-required-asterisk">*</span></label>
-		    <label class="ss-q-help" for="entry_6"></label>
-		    <input type="text" name="entry.6.single" value="" class="ss-q-short" id="entry_6"/>
-		  </div>
-		</div>
-	      </div>
-	      <div class="errorbox-good">
-		<div class="ss-item  ss-paragraph-text">
-		  <div class="ss-form-entry">
-		    <label class="ss-q-title" for="entry_7">Publication referencing reagent</label>
-		    <label class="ss-q-help" for="entry_7"></label>
-		    <textarea name="entry.7.single" rows="8" cols="75" class="ss-q-long" id="entry_7"></textarea>
-		  </div>
-		</div>
-	      </div>
-	      <div class="errorbox-good">
-		<div class="ss-item ss-item-required ss-paragraph-text">
-		  <div class="ss-form-entry">
-		    <label class="ss-q-title" for="entry_8">Brief description of planned use<span class="ss-required-asterisk">*</span></label>
-		    <label class="ss-q-help" for="entry_8"></label>
-		    <textarea name="entry.8.single" rows="8" cols="75" class="ss-q-long" id="entry_8"></textarea>
-		  </div>
-		</div>
-	      </div>
-	      <div class="errorbox-good">
-		<div class="ss-item  ss-paragraph-text">
-		  <div class="ss-form-entry">
-		    <label class="ss-q-title" for="entry_9">Special requests or comments</label>
-		    <label class="ss-q-help" for="entry_9"></label>
-		    <textarea name="entry.9.single" rows="8" cols="75" class="ss-q-long" id="entry_9"></textarea>
-		  </div>
-		</div>
-	      </div>
+					<form action="" method="post" id="ss-form" onsubmit="return validateForm()">
+						<div class="errorbox-good">
+							<div class="ss-item ss-item-required ss-text">
+								<div class="ss-form-entry">
+									<label class="ss-q-title" for="entry_0">Name<span class="ss-required-asterisk">*</span></label>
+									<label class="ss-q-help" for="entry_0"></label>
+									<input type="text" name="entry.0.single" value="" class="ss-q-short" id="entry_0"/>
+								</div>
+							</div>
+						</div>
+						<div class="errorbox-good">
+							<div class="ss-item ss-item-required ss-text">
+								<div class="ss-form-entry">
+									<label class="ss-q-title" for="entry_1">Email address<span class="ss-required-asterisk">*</span></label>
+									<label class="ss-q-help" for="entry_1"></label>
+									<input type="text" name="entry.1.single" value="" class="ss-q-short" id="entry_1"/>
+								</div>
+							</div>
+						</div>
+						<div class="errorbox-good">
+							<div class="ss-item  ss-text">
+								<div class="ss-form-entry">
+									<label class="ss-q-title" for="entry_2">Phone</label>
+									<label class="ss-q-help" for="entry_2"></label>
+									<input type="text" name="entry.2.single" value="" class="ss-q-short" id="entry_2"/>
+								</div>
+							</div>
+						</div>
+						<div class="errorbox-good">
+							<div class="ss-item ss-item-required ss-text">
+								<div class="ss-form-entry">
+									<label class="ss-q-title" for="entry_3">Principal Investigator<span class="ss-required-asterisk">*</span></label>
+									<label class="ss-q-help" for="entry_3"></label>
+									<input type="text" name="entry.3.single" value="" class="ss-q-short" id="entry_3"/>
+								</div>
+							</div>
+						</div>
+						<div class="errorbox-good">
+							<div class="ss-item ss-item-required ss-text">
+								<div class="ss-form-entry">
+									<label class="ss-q-title" for="entry_4">Institute/Company<span class="ss-required-asterisk">*</span></label>
+									<label class="ss-q-help" for="entry_4"></label>
+									<input type="text" name="entry.4.single" value="" class="ss-q-short" id="entry_4"/>
+								</div>
+							</div>
+						</div>
+						<div class="errorbox-good">
+							<div class="ss-item ss-item-required ss-text">
+								<div class="ss-form-entry">
+									<label class="ss-q-title" for="entry_10">Mailing Address<span class="ss-required-asterisk">*</span></label>
+									<label class="ss-q-help" for="entry_10"></label>
+									<input type="text" name="entry.10.single" value="" class="ss-q-short" id="entry_10"/>
+								</div>
+							</div>
+						</div>
+						<div class="errorbox-good">
+							<div class="ss-item ss-item-required ss-text">
+								<div class="ss-form-entry">
+									<label class="ss-q-title" for="entry_5">Requested Item<span class="ss-required-asterisk">*</span></label>
+									<label class="ss-q-help" for="entry_5"></label>
+									<input type="text" name="entry.5.single" value="" class="ss-q-short" id="entry_5"/>
+								</div>
+							</div>
+						</div>
+						<div class="errorbox-good">
+							<div class="ss-item ss-item-required ss-text">
+								<div class="ss-form-entry">
+									<label class="ss-q-title" for="entry_6">Quantity<span class="ss-required-asterisk">*</span></label>
+									<label class="ss-q-help" for="entry_6"></label>
+									<input type="text" name="entry.6.single" value="" class="ss-q-short" id="entry_6"/>
+								</div>
+							</div>
+						</div>
+						<div class="errorbox-good">
+							<div class="ss-item  ss-paragraph-text">
+								<div class="ss-form-entry">
+									<label class="ss-q-title" for="entry_7">Publication referencing reagent</label>
+									<label class="ss-q-help" for="entry_7"></label>
+									<textarea name="entry.7.single" rows="8" cols="75" class="ss-q-long" id="entry_7"></textarea>
+								</div>
+							</div>
+						</div>
+						<div class="errorbox-good">
+							<div class="ss-item ss-item-required ss-paragraph-text">
+								<div class="ss-form-entry">
+									<label class="ss-q-title" for="entry_8">Brief description of planned use<span class="ss-required-asterisk">*</span></label>
+									<label class="ss-q-help" for="entry_8"></label>
+									<textarea name="entry.8.single" rows="8" cols="75" class="ss-q-long" id="entry_8"></textarea>
+								</div>
+							</div>
+						</div>
+						<div class="errorbox-good">
+							<div class="ss-item  ss-paragraph-text">
+								<div class="ss-form-entry">
+									<label class="ss-q-title" for="entry_9">Special requests or comments</label>
+									<label class="ss-q-help" for="entry_9"></label>
+									<textarea name="entry.9.single" rows="8" cols="75" class="ss-q-long" id="entry_9"></textarea>
+								</div>
+							</div>
+						</div>
 
-	      <fieldset style="display:none">
-		<legend/>
-		<input type="hidden" name="pageNumber" value="0"/>
-		<input type="hidden" name="backupCache" value=""/>
-	      </fieldset>
+						<fieldset style="display:none">
+							<legend/>
+							<input type="hidden" name="pageNumber" value="0"/>
+							<input type="hidden" name="backupCache" value=""/>
+						</fieldset>
 
-	      <?php                                                                                                                                                                                    
-		require_once('php/recaptchalib.php');                                                                                                                                                  
-		$publickey = "6LcupdUSAAAAAHg4ALnKrPLH03amA21PBl3NaL0s";                                                                                                                               
-		echo recaptcha_get_html($publickey, $error);                                                                                                                                           
-              ?> 
+						<?php                                                                                                                                                                                    
+						require_once('php/recaptchalib.php');                                                                                                                                                  
+						$publickey = "6LcupdUSAAAAAHg4ALnKrPLH03amA21PBl3NaL0s";                                                                                                                               
+						echo recaptcha_get_html($publickey, $error);                                                                                                                                           
+						?> 
 	      
-	      <div class="ss-item ss-navigate">
-		<div class="ss-form-entry">
-		  <input type="submit" name="submit" value="Submit"/>
-		</div>
-	      </div>
-	    </form>
+						<div class="ss-item ss-navigate">
+							<div class="ss-form-entry">
+								<input type="submit" name="submit" value="Submit"/>
+							</div>
+						</div>
+					</form>
 	    
-	  </div>
+				</div>
+			</div>
+		</div>
 	</div>
-      </div>
-    </div>
-    <?php include "footer.html";?>
-  </body>
+	<?php include "footer.html";?>
+</body>
 </html>

@@ -140,7 +140,7 @@
 								<span class="authors">Richard G. James, Kathryn C. Davidson, Katherine A. Bosch, Travis L. Biechele, Nicholas C. Robin, Russell J. Taylor, Michael B. Major, Nathan D. Camp, Kerry Fowler, Timothy J. Martins, Randall T. Moon.</span>
 								<span class="title">WIKI4, a Novel Inhibitor of Tankyrase and Wnt/&beta;-Catenin Signaling.</span>
 								<a class="article" target="_blank" href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0050457">
-			     					<span class="journal">PLoS ONE.</span>
+									<span class="journal">PLoS ONE.</span>
 									<span class="datePage">5 Dec 2012: 7(12).</span>
 								</a>
 							</li>

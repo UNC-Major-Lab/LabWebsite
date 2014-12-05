@@ -1,41 +1,41 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <?php include "header.html" ?>
-    <title>Major Lab - Software</title>
-    <script type="text/javascript" src="js/google-analytics.js"></script>
-  </head>
-  <body>
-    <div id="wrap">
-      <?php include "navbar.html";?>
+<head>
+	<?php include "header.html" ?>
+	<title>Major Lab - Software</title>
+	<script type="text/javascript" src="js/google-analytics.js"></script>
+</head>
+<body>
+	<div id="wrap">
+		<?php include "navbar.html";?>
       
-      <div id="stripe2">
+		<div id="stripe2">
 	
-	<div id="str2">
-	  <div class="innerdiv">
-	    <div class="pageHeader">
-	      <h1>Software</h1>
-	    </div>
-	    <div class="content">
-	      <!-- spotlite -->
-	    <div class="software-container spotlite" onclick="window.open('http://warlock.med.unc.edu/spotlite','new_window');"  style="cursor: pointer;">
-			<div class="software-img">
-		  	  <img src="img/spotlite_software.png" alt="Spotlite"/>
+			<div id="str2">
+				<div class="innerdiv">
+					<div class="pageHeader">
+						<h1>Software</h1>
+					</div>
+					<div class="content">
+						<!-- spotlite -->
+						<div class="software-container spotlite" onclick="window.open('http://warlock.med.unc.edu/spotlite','new_window');"  style="cursor: pointer;">
+							<div class="software-img">
+								<img src="img/spotlite_software.png" alt="Spotlite"/>
+							</div>
+							<div class="software-desc">
+								<p class="software-title">Spotlite: A web server for predicting co-complexed proteins from affinity purification – mass spectrometry data
+								</p>
+								<p>
+									Spotlite is a user-friendly web application for predicting complex co-membership from affinity purification - mass spectrometry data. This web application employs a logistic regression classifier that integrates existing, proven APMS scoring approaches (SAINT, CompPASS, and HGSCore), gene co-expression patterns, functional annotations, domain-domain binding affinity, and homologous interactions, which we have shown outperforms existing APMS scoring methods. Spotlite can be access <a href="http://warlock.med.unc.edu/spotlite" target="_blank">here</a>. Spotlite is temporarily unavailable as it is under maintenance.
+								</p>
+							</div>
+							<!--<div style="clear:both"/>-->
+						</div>
+					</div>
+				</div>
 			</div>
-			<div class="software-desc">
-		  	  <p class="software-title">Spotlite: A web server for predicting co-complexed proteins from affinity purification – mass spectrometry data
-		  	</p>
-		  	<p>
-		    Spotlite is a user-friendly web application for predicting complex co-membership from affinity purification - mass spectrometry data. This web application employs a logistic regression classifier that integrates existing, proven APMS scoring approaches (SAINT, CompPASS, and HGSCore), gene co-expression patterns, functional annotations, domain-domain binding affinity, and homologous interactions, which we have shown outperforms existing APMS scoring methods. Spotlite can be access <a href="http://warlock.med.unc.edu/spotlite" target="_blank">here</a>.
-		  	</p>
 		</div>
-		<!--<div style="clear:both"/>-->
-	      </div>
-	    </div>
-	  </div>
 	</div>
-      </div>
-    </div>
-    <?php include "footer.html"?>
-  </body>
+	<?php include "footer.html"?>
+</body>
 </html>

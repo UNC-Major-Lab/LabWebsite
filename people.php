@@ -153,12 +153,10 @@
 											<p class="desc">Support Team.</br>Minion.</p>
 										</div>
 									</td>
-
-									<td>
-									</td>
 									
-									<td/>
-									<td/>
+									<td>
+										
+									</td>
 								</tr>
 							</tbody>
 						</table>

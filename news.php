@@ -39,6 +39,23 @@
 						<h1>News</h1>
 					</div>
 					<div class="content">
+						<!-- Table template for news section -->
+						<!-- 
+						<p class="divider">PUT YEAR HERE</p>
+						<table class="news-table">
+							<tbody>
+								<tr>
+									<td class="date">PUT DATE HERE</td>
+									<td>PUT NEWS HERE></td>
+								</tr>
+								<tr>
+									<td class="date">PUT DATE HERE</td>
+									<td>PUT NEWS HERE></td>
+								</tr>
+							</tbody>
+						</table>
+						-->
+						
 						<p class="divider">2013</p>
 						<table class="news-table">
 							<tbody>

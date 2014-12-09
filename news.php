@@ -55,6 +55,19 @@
 							</tbody>
 						</table>
 						-->
+						<p class="divider">2014</p>
+						<table class="news-table">
+							<tbody>
+								<tr>
+									<td class="date">December 9th, 2014</td>
+									<td>Matt Walker was awarded $105,000 grant from the Lymphoma Research Foundation</td>
+								</tr>
+								<tr>
+									<td class="date">November 7th, 2014</td>
+									<td>Kathleen Mulvaney wins best presentation at the Initiative for Maximizing Student Diversity Symposium (IMSD), UNC Chapel Hill</td>
+								</tr>
+							</tbody>
+						</table>
 						
 						<p class="divider">2013</p>
 						<table class="news-table">

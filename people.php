@@ -88,7 +88,7 @@
 											<a href="mailto:goldfarb@cs.unc.edu">goldfarb@cs.unc.edu</a>
 											<p class="desc">Co-mentored by <a href="http://www.cs.unc.edu/~weiwang/" target="_blank" style="font-size:12px">Wei Wang</a>
 											</p>
-											<p class="desc">Protein-protein interaction prediction and software development.</p>
+											<p class="desc">Computational proteomics.</p>
 										</div>
 									</td>
 									<td>
@@ -124,22 +124,12 @@
 								</tr>
 								<tr>
 									<td>
-										<!-- Abby Winn -->
-										<div class="personCell">
-											<h3> Lab Technician </h3>
-											<img class="personImg" alt="Abby Winn" src="img/Abby.png"/>
-											<p><strong>Abby Winn</strong></p>
-											<a href="mailto:arwinn@live.unc.edu" target="_blank">arwinn@live.unc.edu</a>
-											<p class="desc">Support Team.</br>Minion Master.</p>
-										</div>
-									</td>
-									<td>
 										<!-- Joe Dayaa -->
 										<div class="personCell">
 											<h3> Undergraduate </h3>
 											<img class="personImg" alt="Joe Dayaa" src="img/johndoe.png"/>
 											<p><strong>Joe Dayaa</strong></p>
-											<a href="mailto:dayaa@live.unc.edu" target="_blank">dayaa@live.unc.edu</a>
+											<!--<a href="mailto:dayaa@live.unc.edu" target="_blank">dayaa@live.unc.edu</a>-->
 											<p class="desc">Team Wnt.</p>
 										</div>
 									</td>
@@ -149,13 +139,30 @@
 											<h3> Undergraduate </h3>
 											<img class="personImg" alt="Nalini Bernadette Peres-da-silva" src="img/nalini.png"/>
 											<p><strong>Nalini Bernadette</br>Peres-da-silva</strong></p>
-											<a href="mailto:nalinip@live.unc.edu" target="_blank">nalinip@live.unc.edu</a>
+											<!--<a href="mailto:nalinip@live.unc.edu" target="_blank">nalinip@live.unc.edu</a>-->
 											<p class="desc">Support Team.</br>Minion.</p>
 										</div>
 									</td>
 									
 									<td>
-										
+										<!-- Persis Bhadha -->
+										<div class="personCell">
+											<h3> Undergraduate </h3>
+											<img class="personImg" alt="Persis Bhadha" src="img/janedoe.png"/>
+											<p><strong>Persis Bhadha</strong></p>
+											<!--<a href="mailto:nalinip@live.unc.edu" target="_blank">nalinip@live.unc.edu</a>-->
+											<p class="desc">Support Team.</br>Minion.</p>
+										</div>
+									</td>
+									<td>
+										<!-- Sam Petrie -->
+										<div class="personCell">
+											<h3> Undergraduate </h3>
+											<img class="personImg" alt="Sam Petrie" src="img/janedoe.png"/>
+											<p><strong>Sam Petrie</strong></p>
+											<!--<a href="mailto:nalinip@live.unc.edu" target="_blank">nalinip@live.unc.edu</a>-->
+											<p class="desc">Support Team.</br>Minion.</p>
+										</div>
 									</td>
 								</tr>
 							</tbody>
@@ -210,6 +217,29 @@
 									</td>
 
 								</tr>
+								
+								<tr>	
+									<td>
+											<!-- Abby Winn -->
+											<div class="personCell">
+												<h3> Lab Technician </h3>
+												<img class="personImg" alt="Abby Winn" src="img/Abby.png"/>
+												<p><strong>Abby Winn</strong></p>
+												<!--<a href="mailto:arwinn@live.unc.edu" target="_blank">arwinn@live.unc.edu</a>-->
+												<p class="desc">Master's student at </br> North Carolina State University</p>
+											</div>
+									</td>
+									
+									<td>
+									</td>
+									
+									<td>
+									</td>
+									
+									<td>
+									</td>
+								</tr>
+								
 							</tbody>
 						</table>
 

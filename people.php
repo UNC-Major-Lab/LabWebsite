@@ -148,7 +148,7 @@
 										<!-- Persis Bhadha -->
 										<div class="personCell">
 											<h3> Undergraduate </h3>
-											<img class="personImg" alt="Persis Bhadha" src="img/janedoe.png"/>
+											<img class="personImg" alt="Persis Bhadha" src="img/persis.png"/>
 											<p><strong>Persis Bhadha</strong></p>
 											<!--<a href="mailto:nalinip@live.unc.edu" target="_blank">nalinip@live.unc.edu</a>-->
 											<p class="desc">Support Team.</br>Minion.</p>

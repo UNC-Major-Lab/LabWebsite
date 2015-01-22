@@ -158,7 +158,7 @@
 										<!-- Sam Petrie -->
 										<div class="personCell">
 											<h3> Undergraduate </h3>
-											<img class="personImg" alt="Sam Petrie" src="img/janedoe.png"/>
+											<img class="personImg" alt="Sam Petrie" src="img/Sam.png"/>
 											<p><strong>Sam Petrie</strong></p>
 											<!--<a href="mailto:nalinip@live.unc.edu" target="_blank">nalinip@live.unc.edu</a>-->
 											<p class="desc">Support Team.</br>Minion.</p>

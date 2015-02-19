@@ -16,6 +16,17 @@
 					</div>
 
 					<div class="content">
+						<p class="divider">2015</p>
+						<ul class="publications">
+								<li>
+									<span class="authors">Matthew P. Walker, Charles M. Stopford, Maria Cederlund, Fang Fang, Christopher Jahn, Alex D. Rabinowitz, Dennis Goldfarb, David M. Graham, Feng Yan, Allison M. Deal, Yuri Fedoriw, Kristy L. Richards, Ian J. Davis, Gilbert Weidinger, Blossom Damania, and Michael B. Major.</span>
+									<span class="title">FOXP1 Potentiates Wnt/&beta;-catenin Signaling in Diffuse Large B Cell Lymphoma.</span>
+									<a class="article" target="_blank" href="http://stke.sciencemag.org/content/8/362/ra12.full">
+										<span class="journal">Science Signaling.</span>
+										<span class="datePage">7 January 2015.</span>
+									</a>
+								</li>
+						</ul>
 						<p class="divider">2014</p>
 						<ul class="publications">
 							<li>

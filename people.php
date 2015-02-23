@@ -79,6 +79,16 @@
 								</tr>
 
 								<tr>
+										<td>
+											<!-- Emily Cousins -->
+											<div class="personCell">
+												<h3> Postdoctoral Fellow </h3>
+												<img class="personImg" alt="Emily Cousins" src="img/janedoe.png"/>
+												<p><strong>Emily Cousins</strong></p>
+												<!-- <a href="mailto:kmulvane@email.unc.edu" target="_blank">kmulvane@email.unc.edu</a> -->
+												<p class="desc">Activity-based proteomics</p>
+											</div>
+										</td>
 									<td>
 										<!-- Dennis Goldfarb -->
 										<div class="personCell">
@@ -111,6 +121,8 @@
 											<p class="desc">Team Keap/Nrf.</p>
 										</div>
 									</td>
+								</tr>
+								<tr>
 									<td>
 										<!-- Tigist Y Tamir -->
 										<div class="personCell">
@@ -121,8 +133,6 @@
 											<p class="desc">Team Keap/Nrf.</br>Team Wnt.</p>
 										</div>
 									</td>
-								</tr>
-								<tr>
 									<td>
 										<!-- Joe Dayaa -->
 										<div class="personCell">
@@ -154,6 +164,8 @@
 											<p class="desc">Support Team.</br>Minion.</p>
 										</div>
 									</td>
+								</tr>
+								<tr>
 									<td>
 										<!-- Sam Petrie -->
 										<div class="personCell">
@@ -163,6 +175,15 @@
 											<!--<a href="mailto:nalinip@live.unc.edu" target="_blank">nalinip@live.unc.edu</a>-->
 											<p class="desc">Support Team.</br>Minion.</p>
 										</div>
+									</td>
+									
+									<td>
+									</td>
+									
+									<td>
+									</td>
+									
+									<td>
 									</td>
 								</tr>
 							</tbody>

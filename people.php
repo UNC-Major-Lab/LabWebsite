@@ -83,8 +83,9 @@
 											<!-- Emily Cousins -->
 											<div class="personCell">
 												<h3> Postdoctoral Fellow </h3>
-												<img class="personImg" alt="Emily Cousins" src="img/janedoe.png"/>
+												<img class="personImg" alt="Emily Cousins" src="img/emilyCousins.jpg"/>
 												<p><strong>Emily Cousins</strong></p>
+												<a href="mailto:ecousins@email.unc.edu">ecousins@email.unc.edu</a>
 												<!-- <a href="mailto:kmulvane@email.unc.edu" target="_blank">kmulvane@email.unc.edu</a> -->
 												<p class="desc">Activity-based proteomics</p>
 											</div>

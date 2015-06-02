@@ -18,7 +18,7 @@
 					</div>
 					<div class="content">
 						<!-- spotlite -->
-						<div class="software-container spotlite" onclick="window.open('http://warlock.med.unc.edu/spotlite','new_window');"  style="cursor: pointer;">
+						<div class="software-container spotlite" onclick="window.open('https://lbgsites2.bioinf.unc.edu/spotlite','new_window');"  style="cursor: pointer;">
 							<div class="software-img">
 								<img src="img/spotlite_software.png" alt="Spotlite"/>
 							</div>

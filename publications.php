@@ -159,7 +159,7 @@
 							<li>
 								<span class="authors">Priscila F. Siesser, Marta Motolese, Matthew P. Walker, Dennis Goldfarb, Kelly Gewain, Feng Yan, Rima M. Kulikaukas, Andy J. Chien, Linda Wordeman and Michael B. Major.</span>
 								<span class="title">FAM123A Binds Microtubules and Inhibits the Guanine Nucleotide Exchange Factor ARHGEF2 to Decrease Actomyosin Contractility.</span>
-								<a class="article" target="_blank" href="http://stke.sciencemag.org/cgi/content/full/sigtrans;5/240/ra64?ijkey=yFyoS2bR0ScwQ&keytype=ref&siteid=sigtrans">
+								<a class="article" target="_blank" href="http://stke.sciencemag.org/content/5/240/ra64.full">
 									<span class="journal">Science Signaling.</span>
 									<span class="datePage">4 Sept 2012 Vol. 5, Issue 240, p. ra64.</span>
 								</a>

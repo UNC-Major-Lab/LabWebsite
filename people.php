@@ -135,16 +135,6 @@
 										</div>
 									</td>
 									<td>
-										<!-- Joe Dayaa -->
-										<div class="personCell">
-											<h3> Undergraduate </h3>
-											<img class="personImg" alt="Joe Dayaa" src="img/johndoe.png"/>
-											<p><strong>Joe Dayaa</strong></p>
-											<!--<a href="mailto:dayaa@live.unc.edu" target="_blank">dayaa@live.unc.edu</a>-->
-											<p class="desc">Team Wnt.</p>
-										</div>
-									</td>
-									<td>
 										<!-- Nalini Bernadette Peres-da-silva -->
 										<div class="personCell">
 											<h3> Undergraduate </h3>
@@ -156,26 +146,13 @@
 									</td>
 									
 									<td>
-										<!-- Persis Bhadha -->
-										<div class="personCell">
-											<h3> Undergraduate </h3>
-											<img class="personImg" alt="Persis Bhadha" src="img/persis.png"/>
-											<p><strong>Persis Bhadha</strong></p>
-											<!--<a href="mailto:nalinip@live.unc.edu" target="_blank">nalinip@live.unc.edu</a>-->
-											<p class="desc">Support Team.</br>Minion.</p>
-										</div>
+									</td>
+									
+									<td>	
 									</td>
 								</tr>
 								<tr>
 									<td>
-										<!-- Sam Petrie -->
-										<div class="personCell">
-											<h3> Undergraduate </h3>
-											<img class="personImg" alt="Sam Petrie" src="img/Sam.png"/>
-											<p><strong>Sam Petrie</strong></p>
-											<!--<a href="mailto:nalinip@live.unc.edu" target="_blank">nalinip@live.unc.edu</a>-->
-											<p class="desc">Support Team.</br>Minion.</p>
-										</div>
 									</td>
 									
 									<td>
@@ -253,12 +230,36 @@
 									</td>
 									
 									<td>
+										<!-- Joe Dayaa -->
+										<div class="personCell">
+											<h3> Undergraduate </h3>
+											<img class="personImg" alt="Joe Dayaa" src="img/johndoe.png"/>
+											<p><strong>Joe Dayaa</strong></p>
+											<!--<a href="mailto:dayaa@live.unc.edu" target="_blank">dayaa@live.unc.edu</a>-->
+											<p class="desc"></p>
+										</div>
 									</td>
 									
 									<td>
+										<!-- Persis Bhadha -->
+										<div class="personCell">
+											<h3> Undergraduate </h3>
+											<img class="personImg" alt="Persis Bhadha" src="img/persis.png"/>
+											<p><strong>Persis Bhadha</strong></p>
+											<!--<a href="mailto:nalinip@live.unc.edu" target="_blank">nalinip@live.unc.edu</a>-->
+											<p class="desc"></p>
+										</div>
 									</td>
 									
 									<td>
+										<!-- Sam Petrie -->
+										<div class="personCell">
+											<h3> Undergraduate </h3>
+											<img class="personImg" alt="Sam Petrie" src="img/Sam.png"/>
+											<p><strong>Sam Petrie</strong></p>
+											<!--<a href="mailto:nalinip@live.unc.edu" target="_blank">nalinip@live.unc.edu</a>-->
+											<p class="desc"></p>
+										</div>
 									</td>
 								</tr>
 								

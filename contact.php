@@ -28,7 +28,7 @@
 								Department of Cell Biology &amp; Physiology<br/>
 								University of North Carolina at Chapel Hill<br/>
 								<br/>
-								31-351 Lineberger Cancer Center<br/>
+								31-322 Lineberger Cancer Center<br/>
 								450 West Drive<br/>
 								University of North Carolina<br/>
 								Chapel Hill, NC 27599-7295<br/>

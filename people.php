@@ -79,17 +79,26 @@
 								</tr>
 
 								<tr>
-										<td>
-											<!-- Emily Cousins -->
-											<div class="personCell">
-												<h3> Postdoctoral Fellow </h3>
-												<img class="personImg" alt="Emily Cousins" src="img/emilyCousins.jpg"/>
-												<p><strong>Emily Cousins</strong></p>
-												<a href="mailto:ecousins@email.unc.edu">ecousins@email.unc.edu</a>
-												<!-- <a href="mailto:kmulvane@email.unc.edu" target="_blank">kmulvane@email.unc.edu</a> -->
-												<p class="desc">Activity-based proteomics</p>
-											</div>
-										</td>
+									<td>
+										<!-- Emily Cousins -->
+										<div class="personCell">
+											<h3> Postdoctoral Fellow </h3>
+											<img class="personImg" alt="Emily Cousins" src="img/emilyCousins.jpg"/>
+											<p><strong>Emily Cousins</strong></p>
+											<a href="mailto:ecousins@email.unc.edu">ecousins@email.unc.edu</a>
+											<p class="desc">Activity-based proteomics</p>
+										</div>
+									</td>
+									<td>
+										<!-- Brittany Bowman -->
+										<div class="personCell">
+											<h3> Postdoctoral Fellow </h3>
+											<img class="personImg" alt="Brittany Bowman" src="img/brittanyBowman.jpg"/>
+											<p><strong>Brittany Bowman</strong></p>
+											<a href="mailto:bowbritt@email.unc.edu">bowbritt@email.unc.edu</a>
+											<p class="desc">FOXP1</p>
+										</div>
+									</td>
 									<td>
 										<!-- Dennis Goldfarb -->
 										<div class="personCell">
@@ -112,6 +121,8 @@
 											<p class="desc">Team Keap/Nrf.</br>Lab safety officer.</p>
 										</div>
 									</td>
+								</tr>
+								<tr>
 									<td>
 										<!-- Erica Cloer -->
 										<div class="personCell">
@@ -122,8 +133,6 @@
 											<p class="desc">Team Keap/Nrf.</p>
 										</div>
 									</td>
-								</tr>
-								<tr>
 									<td>
 										<!-- Tigist Y Tamir -->
 										<div class="personCell">
@@ -146,9 +155,6 @@
 									</td>
 									
 									<td>
-									</td>
-									
-									<td>	
 									</td>
 								</tr>
 								<tr>

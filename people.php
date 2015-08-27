@@ -63,7 +63,7 @@
 											<img class="personImg" alt="Matt Walker" src="img/matt.png"/>
 											<p><strong>Matt Walker, PhD</strong></p>
 											<a href="mailto:mattwa@med.unc.edu" target="_blank">mattwa@med.unc.edu</a>
-											<p class="desc">Development of functional screening platforms. Team Wnt.</p>
+											<p class="desc">Development of functional screening platforms. Team Wnt/FOXP1.</p>
 										</div>
 									</td>
 									<td>
@@ -96,7 +96,7 @@
 											<img class="personImg" alt="Brittany Bowman" src="img/brittanyBowman.jpg"/>
 											<p><strong>Brittany Bowman</strong></p>
 											<a href="mailto:bowbritt@email.unc.edu">bowbritt@email.unc.edu</a>
-											<p class="desc">FOXP1</p>
+											<p class="desc">Team Wnt/FOXP1</p>
 										</div>
 									</td>
 									<td>

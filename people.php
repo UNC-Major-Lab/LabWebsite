@@ -150,7 +150,7 @@
 											<img class="personImg" alt="Navaneet Galagali" src="img/navaneet.png"/>
 											<p><strong>Navaneet Galagali</p>
 											<a href="mailto:galagali@live.unc.edu" target="_blank">galagali@live.unc.edu</a>
-											<p class="desc">Computational Mass Spectrometry.</br>Minion.</p>
+											<p class="desc">Computational Mass Spectrometry.</p>
 										</div>
 									</td>
 									

@@ -144,6 +144,17 @@
 										</div>
 									</td>
 									<td>
+										<!-- Navaneet Galagali -->
+										<div class="personCell">
+											<h3> Master's Student </h3>
+											<img class="personImg" alt="Navaneet Galagali" src="img/navaneet.png"/>
+											<p><strong>Navaneet Galagali</p>
+											<a href="mailto:galagali@live.unc.edu" target="_blank">galagali@live.unc.edu</a>
+											<p class="desc">Computational Mass Spectrometry.</br>Minion.</p>
+										</div>
+									</td>
+									
+									<td>
 										<!-- Nalini Bernadette Peres-da-silva -->
 										<div class="personCell">
 											<h3> Undergraduate </h3>
@@ -152,9 +163,6 @@
 											<!--<a href="mailto:nalinip@live.unc.edu" target="_blank">nalinip@live.unc.edu</a>-->
 											<p class="desc">Support Team.</br>Minion.</p>
 										</div>
-									</td>
-									
-									<td>
 									</td>
 								</tr>
 								<tr>

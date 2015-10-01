@@ -19,6 +19,14 @@
 						<p class="divider">2015</p>
 						<ul class="publications">
 								<li>
+									<span class="authors">Rob U. Onyenwoke, Jonathan Z. Sexton, Feng Yan, María Cristina Huertas Díaz, Lawrence J. Forsberg, Michael B. Major, Jay E. Brenman.</span>
+									<span class="title">The mucolipidosis IV Ca2+ channel TRPML1 (MCOLN1) is regulated by the TOR kinase.</span>
+									<a class="article" target="_blank" href="http://www.biochemj.org/content/470/3/331.long">
+										<span class="journal">Biochemical Journal.</span>
+										<span class="datePage">4 September 2015.</span>
+									</a>
+								</li>
+								<li>
 									<span class="authors">Matthew P. Walker, Charles M. Stopford, Maria Cederlund, Fang Fang, Christopher Jahn, Alex D. Rabinowitz, Dennis Goldfarb, David M. Graham, Feng Yan, Allison M. Deal, Yuri Fedoriw, Kristy L. Richards, Ian J. Davis, Gilbert Weidinger, Blossom Damania, and Michael B. Major.</span>
 									<span class="title">FOXP1 Potentiates Wnt/&beta;-catenin Signaling in Diffuse Large B Cell Lymphoma.</span>
 									<a class="article" target="_blank" href="http://stke.sciencemag.org/content/8/362/ra12.full">

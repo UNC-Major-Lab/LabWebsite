@@ -18,6 +18,14 @@
 					<div class="content">
 						<p class="divider">2015</p>
 						<ul class="publications">
+							<li>
+								<span class="authors">Gurkan Guntas, Steven M. Lewis, Kathleen M. Mulvaney, Erica W. Cloer, Ashutosh Tripathy, Thomas R. Lane, Michael B. Major and Brian Kuhlman.</span>
+								<span class="title">Engineering a genetically encoded competitive inhibitor of the KEAP1–NRF2 interaction via structure-based design and phage display.</span>
+								<a class="article" target="_blank" href="http://peds.oxfordjournals.org/content/early/2015/10/20/protein.gzv055.short?rss=1">
+									<span class="journal">Protein Engineering Design and Selection.</span>
+									<span class="datePage">20 October 2015.</span>
+								</a>
+							</li>
 								<li>
 									<span class="authors">Rob U. Onyenwoke, Jonathan Z. Sexton, Feng Yan, María Cristina Huertas Díaz, Lawrence J. Forsberg, Michael B. Major, Jay E. Brenman.</span>
 									<span class="title">The mucolipidosis IV Ca2+ channel TRPML1 (MCOLN1) is regulated by the TOR kinase.</span>

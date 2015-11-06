@@ -67,19 +67,6 @@
 										</div>
 									</td>
 									<td>
-										<!-- Feng Yang -->
-										<div class="personCell">
-											<h3> Postdoctoral Fellow </h3>
-											<img class="personImg" alt="Feng Yang" src="img/feng.png"/>
-											<p><strong>Feng Yang, PhD</strong></p>
-											<a href="mailto:fyan@unc.edu" target="_blank">fyan@unc.edu</a>
-											<p class="desc">Mass spectrometry, activity-based proteomics, and phosphoproteomics</p>
-										</div>
-									</td>
-								</tr>
-
-								<tr>
-									<td>
 										<!-- Emily Cousins -->
 										<div class="personCell">
 											<h3> Postdoctoral Fellow </h3>
@@ -89,6 +76,9 @@
 											<p class="desc">Activity-based proteomics</p>
 										</div>
 									</td>
+								</tr>
+
+								<tr>
 									<td>
 										<!-- Brittany Bowman -->
 										<div class="personCell">
@@ -121,8 +111,6 @@
 											<p class="desc">Team Keap/Nrf.</br>Lab safety officer.</p>
 										</div>
 									</td>
-								</tr>
-								<tr>
 									<td>
 										<!-- Erica Cloer -->
 										<div class="personCell">
@@ -133,6 +121,8 @@
 											<p class="desc">Team Keap/Nrf.</p>
 										</div>
 									</td>
+								</tr>
+								<tr>
 									<td>
 										<!-- Tigist Y Tamir -->
 										<div class="personCell">
@@ -164,17 +154,6 @@
 											<p class="desc">Support Team.</br>Minion.</p>
 										</div>
 									</td>
-								</tr>
-								<tr>
-									<td>
-									</td>
-									
-									<td>
-									</td>
-									
-									<td>
-									</td>
-									
 									<td>
 									</td>
 								</tr>
@@ -275,6 +254,22 @@
 											<p class="desc"></p>
 										</div>
 									</td>
+								</tr>
+								<tr>
+									<td>
+										<!-- Feng Yang -->
+										<div class="personCell">
+											<h3> Postdoctoral Fellow </h3>
+											<img class="personImg" alt="Feng Yang" src="img/feng.png"/>
+											<p><strong>Feng Yang, PhD</strong></p>
+											<a href="mailto:fyan@unc.edu" target="_blank">fyan@unc.edu</a>
+											<p class="desc">GlaxoSmithKline</p>
+										</div>
+									</td>
+									
+									<td></td>
+									<td></td>
+									<td></td>
 								</tr>
 								
 							</tbody>

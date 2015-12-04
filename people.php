@@ -145,15 +145,8 @@
 									</td>
 									
 									<td>
-										<!-- Nalini Bernadette Peres-da-silva -->
-										<div class="personCell">
-											<h3> Undergraduate </h3>
-											<img class="personImg" alt="Nalini Bernadette Peres-da-silva" src="img/nalini.png"/>
-											<p><strong>Nalini Bernadette</br>Peres-da-silva</strong></p>
-											<!--<a href="mailto:nalinip@live.unc.edu" target="_blank">nalinip@live.unc.edu</a>-->
-											<p class="desc">Support Team.</br>Minion.</p>
-										</div>
 									</td>
+									
 									<td>
 									</td>
 								</tr>
@@ -268,6 +261,14 @@
 									</td>
 									
 									<td></td>
+										<!-- Nalini Bernadette Peres-da-silva -->
+										<div class="personCell">
+											<h3> Undergraduate </h3>
+											<img class="personImg" alt="Nalini Bernadette Peres-da-silva" src="img/nalini.png"/>
+											<p><strong>Nalini Bernadette</br>Peres-da-silva</strong></p>
+											<!--<a href="mailto:nalinip@live.unc.edu" target="_blank">nalinip@live.unc.edu</a>-->
+											<p class="desc"></p>
+										</div>
 									<td></td>
 									<td></td>
 								</tr>

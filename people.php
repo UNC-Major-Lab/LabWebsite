@@ -260,7 +260,7 @@
 										</div>
 									</td>
 									
-									<td></td>
+									<td>
 										<!-- Nalini Bernadette Peres-da-silva -->
 										<div class="personCell">
 											<h3> Undergraduate </h3>
@@ -269,6 +269,7 @@
 											<!--<a href="mailto:nalinip@live.unc.edu" target="_blank">nalinip@live.unc.edu</a>-->
 											<p class="desc"></p>
 										</div>
+									</td>
 									<td></td>
 									<td></td>
 								</tr>

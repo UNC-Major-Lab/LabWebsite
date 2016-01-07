@@ -19,6 +19,14 @@
 						<p class="divider">2015</p>
 						<ul class="publications">
 							<li>
+								<span class="authors">Dennis Goldfarb, Wei Wang, Michael B. Major and Brian Kuhlman.</span>
+								<span class="title">MSAcquisitionSimulator: data-dependent acquisition simulator for LC-MS shotgun proteomics.</span>
+								<a class="article" target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/26685308">
+									<span class="journal">Bioinformatics.</span>
+									<span class="datePage">17 Decemeber 2015.</span>
+								</a>
+							</li>
+							<li>
 								<span class="authors">Gurkan Guntas, Steven M. Lewis, Kathleen M. Mulvaney, Erica W. Cloer, Ashutosh Tripathy, Thomas R. Lane, Michael B. Major and Brian Kuhlman.</span>
 								<span class="title">Engineering a genetically encoded competitive inhibitor of the KEAP1–NRF2 interaction via structure-based design and phage display.</span>
 								<a class="article" target="_blank" href="http://peds.oxfordjournals.org/content/early/2015/10/20/protein.gzv055.short?rss=1">

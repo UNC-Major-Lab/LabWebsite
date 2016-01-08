@@ -632,6 +632,10 @@ form label {
 ************* SOFTWARE **************
 *************************************/
 
+.software-content {
+	
+}
+
 .software-container {
     background-color: #EEF1F6;
     border-radius: 10px;
@@ -640,10 +644,16 @@ form label {
     border: 2px solid #CCC;
     height: 200px;
     width: 100%;
+	margin-bottom: 10px;
 }
 
 .software-img {
     float:left;
+}
+
+.software-img img {
+	height: 200px;
+	width: 400px;
 }
 
 .software-desc {
@@ -663,9 +673,13 @@ form label {
 
 .spotlite {
     background-color: #444;
-    border: 0px;
+	border-color: #444;
     color: white;
 }
+
+.MSAcquisitionSimulator {
+}
+
 
 /*****************************
 ************ NEWS ************

@@ -19,7 +19,7 @@
 						<p class="divider">2015</p>
 						<ul class="publications">
 							<li>
-								<span class="authors">Dennis Goldfarb, Wei Wang, Michael B. Major and Brian Kuhlman.</span>
+								<span class="authors">Dennis Goldfarb, Wei Wang, Michael B. Major.</span>
 								<span class="title">MSAcquisitionSimulator: data-dependent acquisition simulator for LC-MS shotgun proteomics.</span>
 								<a class="article" target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/26685308">
 									<span class="journal">Bioinformatics.</span>

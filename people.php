@@ -254,7 +254,7 @@
 										<div class="personCell">
 											<h3> Postdoctoral Fellow </h3>
 											<img class="personImg" alt="Feng Yang" src="img/feng.png"/>
-											<p><strong>Feng Yang, PhD</strong></p>
+											<p><strong>Feng Yan, PhD</strong></p>
 											<a href="mailto:fyan@unc.edu" target="_blank">fyan@unc.edu</a>
 											<p class="desc">GlaxoSmithKline</p>
 										</div>

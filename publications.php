@@ -16,6 +16,17 @@
 					</div>
 
 					<div class="content">
+						<p class="divider">2016</p>
+						<ul class="publications">
+							<li>
+								<span class="authors">Yuanyuan Qin, Sneha Sundaram, Luma Essaid, Xin Chen, Samantha M. Miller, Feng Yan, David B. Darr, Joseph A. Galanko, Stephanie A. Montgomery, Michael B. Major, Gary L. Johnson, Melissa A. Troester and Liza Makowski.</span>
+								<span class="title">Weight loss reduces basal-like breast cancer through kinome reprogramming.</span>
+								<a class="article" target="_blank" href="https://www.ncbi.nlm.nih.gov/pubmed/27042159">
+									<span class="journal">Cancer Cell International.</span>
+									<span class="datePage">1 April 2016.</span>
+								</a>
+							</li>
+						</ul>
 						<p class="divider">2015</p>
 						<ul class="publications">
 							<li>

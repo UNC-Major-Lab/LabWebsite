@@ -127,7 +127,7 @@
 										<!-- Megan Agajanian -->
 										<div class="personCell">
 											<h3> Graduate Student </h3>
-											<img class="personImg" alt="Megan Agajanian" src="img/megan.jpeg"/>
+											<img class="personImg" alt="Megan Agajanian" src="img/megan.png"/>
 											<p><strong>Megan Agajanian</strong></p>
 											<a href="mailto:meganmeg@email.unc.edu" target="_blank">meganmeg@email.unc.edu</a>
 											<p class="desc">Team Wnt.</p>

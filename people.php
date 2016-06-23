@@ -57,16 +57,6 @@
 										</div>
 									</td>
 									<td>
-										<!-- Matt Walker -->
-										<div class="personCell">
-											<h3> Postdoctoral Fellow </h3>
-											<img class="personImg" alt="Matt Walker" src="img/matt.png"/>
-											<p><strong>Matt Walker, PhD</strong></p>
-											<a href="mailto:mattwa@med.unc.edu" target="_blank">mattwa@med.unc.edu</a>
-											<p class="desc">Development of functional screening platforms. Team Wnt/FOXP1.</p>
-										</div>
-									</td>
-									<td>
 										<!-- Emily Cousins -->
 										<div class="personCell">
 											<h3> Postdoctoral Fellow </h3>
@@ -76,9 +66,6 @@
 											<p class="desc">Activity-based proteomics</p>
 										</div>
 									</td>
-								</tr>
-
-								<tr>
 									<td>
 										<!-- Brittany Bowman -->
 										<div class="personCell">
@@ -89,6 +76,9 @@
 											<p class="desc">Team Wnt/FOXP1</p>
 										</div>
 									</td>
+								</tr>
+
+								<tr>
 									<td>
 										<!-- Dennis Goldfarb -->
 										<div class="personCell">
@@ -121,8 +111,6 @@
 											<p class="desc">Team Keap/Nrf.</p>
 										</div>
 									</td>
-								</tr>
-								<tr>
 									<td>
 										<!-- Tigist Y Tamir -->
 										<div class="personCell">
@@ -133,15 +121,20 @@
 											<p class="desc">Team Keap/Nrf.</br>Team Wnt.</p>
 										</div>
 									</td>
+								</tr>
+								<tr>
 									<td>
-										<!-- Navaneet Galagali -->
+										<!-- Megan Agajanian -->
 										<div class="personCell">
-											<h3> Master's Student </h3>
-											<img class="personImg" alt="Navaneet Galagali" src="img/navaneet.png"/>
-											<p><strong>Navaneet Galagali</p>
-											<a href="mailto:galagali@live.unc.edu" target="_blank">galagali@live.unc.edu</a>
-											<p class="desc">Computational Mass Spectrometry.</p>
+											<h3> Graduate Student </h3>
+											<img class="personImg" alt="Megan Agajanian" src="img/megan.jpeg"/>
+											<p><strong>Megan Agajanian</strong></p>
+											<a href="mailto:meganmeg@email.unc.edu" target="_blank">meganmeg@email.unc.edu</a>
+											<p class="desc">Team Wnt.</p>
 										</div>
+									</td>
+									<td>
+										
 									</td>
 									
 									<td>
@@ -270,8 +263,26 @@
 											<p class="desc"></p>
 										</div>
 									</td>
-									<td></td>
-									<td></td>
+									<td>
+										<!-- Navaneet Galagali -->
+										<div class="personCell">
+											<h3> Master's Student </h3>
+											<img class="personImg" alt="Navaneet Galagali" src="img/navaneet.png"/>
+											<p><strong>Navaneet Galagali</p>
+											<a href="mailto:galagali@live.unc.edu" target="_blank">galagali@live.unc.edu</a>
+											<p class="desc">Software Developer</p>
+										</div>
+									</td>
+									<td>
+										<!-- Matt Walker -->
+										<div class="personCell">
+											<h3> Postdoctoral Fellow </h3>
+											<img class="personImg" alt="Matt Walker" src="img/matt.png"/>
+											<p><strong>Matt Walker, PhD</strong></p>
+											<a href="mailto:mattwa@med.unc.edu" target="_blank">mattwa@med.unc.edu</a>
+											<p class="desc">Scientist at Spyryx Biosciences.</p>
+										</div>
+									</td>
 								</tr>
 								
 							</tbody>

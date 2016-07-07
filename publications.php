@@ -19,6 +19,14 @@
 						<p class="divider">2016</p>
 						<ul class="publications">
 							<li>
+								<span class="authors">Yanzhe Gao, Elizabeth Mutter-Rottmayer, Alicia M. Greenwalt, Dennis Goldfarb, Feng Yan, Yang Yang, Raquel C. Martinez-Chacin, Kenneth H. Pearce, Satoshi Tateishi, Michael B. Major and Cyrus Vaziri.</span>
+								<span class="title">A neomorphic cancer cell-specific role of MAGE-A4 in trans-lesion synthesis.</span>
+								<a class="article" target="_blank" href="http://www.nature.com/ncomms/2016/160705/ncomms12105/full/ncomms12105.html">
+									<span class="journal">Nature Communications.</span>
+									<span class="datePage">5 July 2016.</span>
+								</a>
+							</li>
+							<li>
 								<span class="authors">Yuanyuan Qin, Sneha Sundaram, Luma Essaid, Xin Chen, Samantha M. Miller, Feng Yan, David B. Darr, Joseph A. Galanko, Stephanie A. Montgomery, Michael B. Major, Gary L. Johnson, Melissa A. Troester and Liza Makowski.</span>
 								<span class="title">Weight loss reduces basal-like breast cancer through kinome reprogramming.</span>
 								<a class="article" target="_blank" href="https://www.ncbi.nlm.nih.gov/pubmed/27042159">

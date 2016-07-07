@@ -17,13 +17,21 @@
 
 					<div class="content">
 						<p class="divider">2016</p>
-						<ul class="publications">
+						<ul class="publications">			
 							<li>
 								<span class="authors">Yanzhe Gao, Elizabeth Mutter-Rottmayer, Alicia M. Greenwalt, Dennis Goldfarb, Feng Yan, Yang Yang, Raquel C. Martinez-Chacin, Kenneth H. Pearce, Satoshi Tateishi, Michael B. Major and Cyrus Vaziri.</span>
 								<span class="title">A neomorphic cancer cell-specific role of MAGE-A4 in trans-lesion synthesis.</span>
 								<a class="article" target="_blank" href="http://www.nature.com/ncomms/2016/160705/ncomms12105/full/ncomms12105.html">
 									<span class="journal">Nature Communications.</span>
 									<span class="datePage">5 July 2016.</span>
+								</a>
+							</li>
+							<li>
+								<span class="authors">Babita Madan, Matthew P. Walker, Robert Young, Laura Quick, Kelly A. Orgel, Meagan Ryan, Priti Gupta, Ian C. Henrich, Marc Ferrerd, Shane Marine, Brian S. Roberts, William T. Arthur, Jason D. Berndt, Andre M. Oliveira, Randall T. Moon, David M. Virshup, Margaret M. Chou, and Michael B. Major.</span>
+								<span class="title">USP6 oncogene promotes Wnt signaling by deubiquitylating Frizzleds.</span>
+								<a class="article" target="_blank" href="http://www.nature.com/ncomms/2016/160705/ncomms12105/full/ncomms12105.html">
+									<span class="journal">Proceedings of the National Academy of Sciences.</span>
+									<span class="datePage">11 April 2016.</span>
 								</a>
 							</li>
 							<li>

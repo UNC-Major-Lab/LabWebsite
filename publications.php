@@ -17,7 +17,15 @@
 
 					<div class="content">
 						<p class="divider">2016</p>
-						<ul class="publications">			
+						<ul class="publications">	
+							<li>
+								<span class="authors">Joseph S. Harrison, Evan M. Cornett, Dennis Goldfarb, Paul A. DaRosa, Zimeng M. Li, Feng Yan, Bradley M. Dickson, Angela H. Guo, Daniel V. Cantu, Lilia Kaustov, Peter J. Brown, Cheryl H. Arrowsmith, Dorothy A. Erie, Michael B. Major, Rachel E. Klevit, Krzysztof Krajewski, Brian Kuhlman, Brian D. Strahl, Scott B. Rothbart</span>
+								<span class="title">Hemi-methylated DNA regulates DNA methylation inheritance through allosteric activation of H3 ubiquitylation by UHRF1.</span>
+								<a class="article" target="_blank" href="https://elifesciences.org/content/5/e17101">
+									<span class="journal">eLife.</span>
+									<span class="datePage">6 September 2016.</span>
+								</a>
+							</li>		
 							<li>
 								<span class="authors">Yanzhe Gao, Elizabeth Mutter-Rottmayer, Alicia M. Greenwalt, Dennis Goldfarb, Feng Yan, Yang Yang, Raquel C. Martinez-Chacin, Kenneth H. Pearce, Satoshi Tateishi, Michael B. Major and Cyrus Vaziri.</span>
 								<span class="title">A neomorphic cancer cell-specific role of MAGE-A4 in trans-lesion synthesis.</span>

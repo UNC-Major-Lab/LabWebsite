@@ -19,7 +19,7 @@
 						<p class="divider">2016</p>
 						<ul class="publications">	
 							<li>
-								<span class="authors">Kathleen M. Mulvaney, Jacob P. Matson, Priscila F. Siesser, Tigist Y. Tamir, Dennis Goldfarb, Timothy M. Jacobs, Erica W. Cloer, Joseph S. Harrsion, Cyrus Vaziri, Jeanette G. Cook and Michael B. Major</span>
+								<span class="authors">Kathleen M. Mulvaney, Jacob P. Matson, Priscila F. Siesser, Tigist Y. Tamir, Dennis Goldfarb, Timothy M. Jacobs, Erica W. Cloer, Joseph S. Harrsion, Cyrus Vaziri, Jeanette G. Cook and Michael B. Major.</span>
 								<span class="title">Identification and Characterization of MCM3 as a Novel KEAP1 Substrate.</span>
 								<a class="article" target="_blank" href="http://www.jbc.org/content/early/2016/09/12/jbc.M116.729418.abstract">
 									<span class="journal">Journal of Biological Chemistry.</span>
@@ -27,7 +27,7 @@
 								</a>
 							</li>
 							<li>
-								<span class="authors">Joseph S. Harrison, Evan M. Cornett, Dennis Goldfarb, Paul A. DaRosa, Zimeng M. Li, Feng Yan, Bradley M. Dickson, Angela H. Guo, Daniel V. Cantu, Lilia Kaustov, Peter J. Brown, Cheryl H. Arrowsmith, Dorothy A. Erie, Michael B. Major, Rachel E. Klevit, Krzysztof Krajewski, Brian Kuhlman, Brian D. Strahl, Scott B. Rothbart</span>
+								<span class="authors">Joseph S. Harrison, Evan M. Cornett, Dennis Goldfarb, Paul A. DaRosa, Zimeng M. Li, Feng Yan, Bradley M. Dickson, Angela H. Guo, Daniel V. Cantu, Lilia Kaustov, Peter J. Brown, Cheryl H. Arrowsmith, Dorothy A. Erie, Michael B. Major, Rachel E. Klevit, Krzysztof Krajewski, Brian Kuhlman, Brian D. Strahl, Scott B. Rothbart.</span>
 								<span class="title">Hemi-methylated DNA regulates DNA methylation inheritance through allosteric activation of H3 ubiquitylation by UHRF1.</span>
 								<a class="article" target="_blank" href="https://elifesciences.org/content/5/e17101">
 									<span class="journal">eLife.</span>

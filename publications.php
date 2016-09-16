@@ -22,7 +22,7 @@
 								<span class="authors">Kathleen M. Mulvaney, Jacob P. Matson, Priscila F. Siesser, Tigist Y. Tamir, Dennis Goldfarb, Timothy M. Jacobs, Erica W. Cloer, Joseph S. Harrsion, Cyrus Vaziri, Jeanette G. Cook and Michael B. Major</span>
 								<span class="title">Identification and Characterization of MCM3 as a Novel KEAP1 Substrate.</span>
 								<a class="article" target="_blank" href="http://www.jbc.org/content/early/2016/09/12/jbc.M116.729418.abstract">
-									<span class="journal">The Journal of Biological Chemistry.</span>
+									<span class="journal">Journal of Biological Chemistry.</span>
 									<span class="datePage">12 September 2016.</span>
 								</a>
 							</li>

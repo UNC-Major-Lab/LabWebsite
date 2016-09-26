@@ -80,6 +80,16 @@
 
 								<tr>
 									<td>
+										<!-- Kathleen Mulvaney -->
+										<div class="personCell">
+											<h3> Postdoctoral Fellow </h3>
+											<img class="personImg" alt="Kathleen Mulvaney" src="img/kathleen.png"/>
+											<p><strong>Kathleen Mulvaney</strong></p>
+											<a href="mailto:kmulvane@email.unc.edu" target="_blank">kmulvane@email.unc.edu</a>
+											<p class="desc">Team Keap/Nrf.</br>Lab safety officer.</p>
+										</div>
+									</td>
+									<td>
 										<!-- Dennis Goldfarb -->
 										<div class="personCell">
 											<h3> Graduate Student </h3>
@@ -89,16 +99,6 @@
 											<p class="desc">Co-mentored by <a href="http://www.cs.unc.edu/~weiwang/" target="_blank" style="font-size:12px">Wei Wang</a>
 											</p>
 											<p class="desc">Computational proteomics.</p>
-										</div>
-									</td>
-									<td>
-										<!-- Kathleen Mulvaney -->
-										<div class="personCell">
-											<h3> Graduate Student </h3>
-											<img class="personImg" alt="Kathleen Mulvaney" src="img/kathleen.png"/>
-											<p><strong>Kathleen Mulvaney</strong></p>
-											<a href="mailto:kmulvane@email.unc.edu" target="_blank">kmulvane@email.unc.edu</a>
-											<p class="desc">Team Keap/Nrf.</br>Lab safety officer.</p>
 										</div>
 									</td>
 									<td>

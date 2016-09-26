@@ -17,6 +17,13 @@
 						<h1>Software</h1>
 					</div>
 					<div class="content">
+						
+						<div>
+							<a href="https://github.com/UNC-Major-Lab/" target="_blank">
+								<img src="img/GitHub_Logo.png" alt="GitHub" width="100" height="42" border="0">
+							</a>
+						</div>
+						
 						<!-- spotlite -->
 						<div class="software-content">
 							<div class="software-container spotlite" onclick="window.open('https://lbgsites2.bioinf.unc.edu/spotlite','new_window');"  style="cursor: pointer;">
@@ -34,7 +41,7 @@
 							</div>
 						
 							<!-- MSAcquisitionSimulator -->
-							<div class="software-container MSAcquisitionSimulator" onclick="window.open('https://github.com/DennisGoldfarb/MSAcquisitionSimulator/','new_window');"  style="cursor: pointer;">
+							<div class="software-container MSAcquisitionSimulator" onclick="window.open('https://github.com/UNC-Major-Lab/MSAcquisitionSimulator/','new_window');"  style="cursor: pointer;">
 								<div class="software-img">
 									<img src="img/MSAcquisitionSimulator_software.png" alt="MSAcquisitionSimulator"/>
 								</div>
@@ -42,7 +49,7 @@
 									<p class="software-title">MSAcquisitionSimulator: data-dependent acquisition simulator for LC-MS shotgun proteomics
 									</p>
 									<p>
-										MSAcquisitionSimulator is a collection of three command-line tools written in C++ that simulate ground truth LC-MS data and the subsequent application of custom data-dependent acquisition (DDA) algorithms. It provides an opportunity for researchers to test, refine, and evaluate novel DDA algorithms prior to implementation on a mass spectrometer. The project and source code is hosted on <a href="https://github.com/DennisGoldfarb/MSAcquisitionSimulator/" target="_blank">GitHub</a>. 
+										MSAcquisitionSimulator is a collection of three command-line tools written in C++ that simulate ground truth LC-MS data and the subsequent application of custom data-dependent acquisition (DDA) algorithms. It provides an opportunity for researchers to test, refine, and evaluate novel DDA algorithms prior to implementation on a mass spectrometer. The project and source code is hosted on <a href="https://github.com/UNC-Major-Lab/MSAcquisitionSimulator/" target="_blank">GitHub</a>. 
 									</p>
 								</div>
 								<!--<div style="clear:both"/>-->

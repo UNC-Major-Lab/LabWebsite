@@ -251,15 +251,32 @@ summary {
     list-style-type: none;
     margin-top: 15px;
 }
+
+.piblications li.menu-item {
+	margin:0 0 10px 0;   
+}
+
 .publications b {
     font-size:1.1em;
 }
 .title {
     font-weight:bold;
+	float:left;
+	width:70%;
+	font-size:13px;
 }
 
 .authors {
+	float:left;
+	width:70%;
+	font-size:11px;
+}
 
+.datePage {
+	font-style:italic;
+	float:right;
+	width:25%;
+	text-align:right;
 }
 
 /*.article {
@@ -270,9 +287,11 @@ summary {
     color: #56a0d3;
 }*/
 
-.journal {
-    font-style:italic;
+.journal {    
     font-weight:bold;
+	float:right;
+	width:25%;
+	text-align:right;
 }
 
 .divider {

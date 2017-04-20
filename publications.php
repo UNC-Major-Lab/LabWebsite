@@ -19,6 +19,18 @@
 						<p class="divider">2016</p>
 						<ul class="publications">	
 							<li>
+								<a class="article" target="_blank" href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174863">
+									<span class="title">Genetic and pharmacological inhibition of TTK impairs pancreatic cancer cell line growth by inducing lethal chromosomal instability.</span>
+								</a>
+								<span class="journal">PLoS One</span>					
+								<span class="authors">Jeran K. Stratford, Feng Yan, Rebecca A. Hill, Michael B. Major, Lee M. Graves, Channing J. Der, Jen Jen Yeh</span>
+								<span class="datePage">Apr. 2017</span>
+							</li>
+							<div style="clear:both;"></div>
+						</ul>
+						<p class="divider">2016</p>
+						<ul class="publications">	
+							<li>
 								<a class="article" target="_blank" href="http://www.sciencedirect.com/science/article/pii/S2468202016300286">
 									<span class="title">Dissecting the Keap1/Nrf2 pathway through proteomics.</span>
 								</a>

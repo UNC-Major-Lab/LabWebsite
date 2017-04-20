@@ -25,32 +25,8 @@
 
 							<div class="equipment-desc desc-left">
 								<p>
-									Orbitrap Fusion Lumos Mass Spectrometer.
+									It's a mass spec.
 								</p>
-							</div>
-							<div style="clear:both"></div>
-						</div>
-						<!-- LC -->
-						<div class="equipment-container">
-							<div class="equipment-img img-left">
-								<img src="img/equip/acquity.jpg" alt="Waters NanoAcquity"/>
-							</div>
-
-							<div class="equipment-desc desc-right">
-								<p>
-									Waters nanoAcquity Liquid Chromatography Instrument.
-								</p>
-							</div>
-							<div style="clear:both"></div>
-						</div>
-						<!-- Cellometer -->
-						<div class="equipment-container">
-							<div class="equipment-img img-right">
-								<img src="img/equip/cellometer.png" alt="Cellometer"/>
-							</div>
-		
-							<div class="equipment-desc desc-left">
-								It's a cellometer.
 							</div>
 							<div style="clear:both"></div>
 						</div>
@@ -66,7 +42,18 @@
 								</p>
 							</div>
 							<div style="clear:both"></div>
-						</div>	
+						</div>
+						<!-- Cellometer -->
+						<div class="equipment-container">
+							<div class="equipment-img img-right">
+								<img src="img/equip/cellometer.png" alt="Cellometer"/>
+							</div>
+		
+							<div class="equipment-desc desc-left">
+								It's a cellometer.
+							</div>
+							<div style="clear:both"></div>
+						</div>
 						<!-- Coffee -->
 						<div class="equipment-container">
 							<div class="equipment-img img-right">

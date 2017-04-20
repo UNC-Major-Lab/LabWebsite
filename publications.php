@@ -16,7 +16,7 @@
 					</div>
 
 					<div class="content">
-						<p class="divider">2016</p>
+						<p class="divider">2017</p>
 						<ul class="publications">	
 							<li>
 								<a class="article" target="_blank" href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174863">

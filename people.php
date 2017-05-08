@@ -73,7 +73,7 @@
 											<img class="personImg" alt="Brittany Bowman" src="img/brittanyBowman.jpg"/>
 											<p><strong>Brittany Bowman</strong></p>
 											<a href="mailto:bowbritt@email.unc.edu">bowbritt@email.unc.edu</a>
-											<p class="desc">Team Wnt/FOXP1</p>
+											<p class="desc">Team Everything!</p>
 										</div>
 									</td>
 								</tr>
@@ -134,7 +134,14 @@
 										</div>
 									</td>
 									<td>
-										
+										<!-- Ryan Murphy-->
+										<div class="personCell">
+											<h3> Graduate Student </h3>
+											<img class="personImg" alt="Ryan Murphy" src="img/ryan.png"/>
+											<p><strong>Ryan Murphy</strong></p>
+											<a href="mailto:ryanmarymurphy@unc.edu" target="_blank">ryanmarymurphy@unc.edu</a>
+											<p class="desc">Team Keap/Nrf.</p>
+										</div>
 									</td>
 									
 									<td>

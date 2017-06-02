@@ -19,6 +19,15 @@
 						<p class="divider">2017</p>
 						<ul class="publications">	
 							<li>
+								<a class="article" target="_blank" href="http://www.jbc.org/content/early/2017/05/30/jbc.M117.788448.abstract">
+									<span class="title">The autism-linked UBE3A T485A mutant E3 ubiquitin ligase activates the Wnt/&beta;-catenin pathway by inhibiting the proteasome.</span>
+								</a>
+								<span class="journal">Journal of Biological Chemistry</span>					
+								<span class="authors">Jason J. Yi, Smita R. Paranjape, Matthew P. Walker, Rajarshi Choudhury, Justin M. Wolter, Giulia Fragola, Michael J. Emanuele, Michael B. Major, Mark J. Zylka</span>
+								<span class="datePage">May 2017</span>
+							</li>
+							<div style="clear:both;"></div>
+							<li>
 								<a class="article" target="_blank" href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174863">
 									<span class="title">Genetic and pharmacological inhibition of TTK impairs pancreatic cancer cell line growth by inducing lethal chromosomal instability.</span>
 								</a>

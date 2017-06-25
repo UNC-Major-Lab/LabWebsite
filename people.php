@@ -78,17 +78,7 @@
 									</td>
 								</tr>
 
-								<tr>
-									<td>
-										<!-- Kathleen Mulvaney -->
-										<div class="personCell">
-											<h3> Postdoctoral Fellow </h3>
-											<img class="personImg" alt="Kathleen Mulvaney" src="img/kathleen.png"/>
-											<p><strong>Kathleen Mulvaney</strong></p>
-											<a href="mailto:kmulvane@email.unc.edu" target="_blank">kmulvane@email.unc.edu</a>
-											<p class="desc">Team Keap/Nrf.</br>Lab safety officer.</p>
-										</div>
-									</td>
+								<tr>		
 									<td>
 										<!-- Dennis Goldfarb -->
 										<div class="personCell">
@@ -121,8 +111,6 @@
 											<p class="desc">Team Keap/Nrf.</br>Team Wnt.</p>
 										</div>
 									</td>
-								</tr>
-								<tr>
 									<td>
 										<!-- Megan Agajanian -->
 										<div class="personCell">
@@ -133,6 +121,8 @@
 											<p class="desc">Team Wnt.</p>
 										</div>
 									</td>
+								</tr>
+								<tr>
 									<td>
 										<!-- Ryan Murphy-->
 										<div class="personCell">
@@ -142,6 +132,9 @@
 											<a href="mailto:ryanmarymurphy@unc.edu" target="_blank">ryanmarymurphy@unc.edu</a>
 											<p class="desc">Team Keap/Nrf.</p>
 										</div>
+									</td>
+									
+									<td>
 									</td>
 									
 									<td>
@@ -289,6 +282,24 @@
 											<a href="mailto:mattwa@med.unc.edu" target="_blank">mattwa@med.unc.edu</a>
 											<p class="desc">Scientist at Spyryx Biosciences.</p>
 										</div>
+									</td>
+								</tr>
+								
+								<tr>
+									<td>
+										<!-- Kathleen Mulvaney -->
+										<div class="personCell">
+											<h3> Graduate Student </h3>
+											<img class="personImg" alt="Kathleen Mulvaney" src="img/kathleen.png"/>
+											<p><strong>Kathleen Mulvaney</strong></p>
+											<p class="desc">Postdoctoral Fellow</br>Sellers lab at the Broad Institute</p>
+										</div>
+									</td>
+									<td>
+									</td>
+									<td>
+									</td>
+									<td>
 									</td>
 								</tr>
 								

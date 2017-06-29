@@ -19,6 +19,15 @@
 						<p class="divider">2017</p>
 						<ul class="publications">	
 							<li>
+								<a class="article" target="_blank" href="http://emboj.embopress.org/content/early/2017/06/29/embj.201696113">
+									<span class="title">Glycosylation of KEAP1 links nutrient sensing to redox stress signaling.</span>
+								</a>
+								<span class="journal">EMBO</span>					
+								<span class="authors">Po‐Han Chen, Timothy J. Smith, Jianli Wu, Priscila F. Siesser, Brittany J. Bisnett, Farhan Khan, Maxwell Hogue, Erik Soderblom, Flora Tang, Jeffrey R. Marks, Michael B. Major, Benjamin M. Swarts, Michael Boyce, Jen‐Tsan Chi</span>
+								<span class="datePage">June 2017</span>
+							</li>
+							<div style="clear:both;"></div>
+							<li>
 								<a class="article" target="_blank" href="http://www.jbc.org/content/early/2017/05/30/jbc.M117.788448.abstract">
 									<span class="title">The autism-linked UBE3A T485A mutant E3 ubiquitin ligase activates the Wnt/&beta;-catenin pathway by inhibiting the proteasome.</span>
 								</a>

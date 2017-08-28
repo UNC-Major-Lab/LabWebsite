@@ -124,7 +124,7 @@
 								</tr>
 								<tr>
 									<td>
-										<!-- Ryan Murphy-->
+										<!-- Ryan Murphy -->
 										<div class="personCell">
 											<h3> Graduate Student </h3>
 											<img class="personImg" alt="Ryan Murphy" src="img/ryan.png"/>
@@ -133,8 +133,16 @@
 											<p class="desc">Team Keap/Nrf.</p>
 										</div>
 									</td>
-									
+								
 									<td>
+										<!-- Trent Stohrer -->
+										<div class="personCell">
+											<h3> Graduate Student </h3>
+											<img class="personImg" alt="Trent Stohrer" src="img/trent.jpg"/>
+											<p><strong>Trent Stohrer</strong></p>
+											<a href="mailto:tstohrer@cs.unc.edu" target="_blank">tstohrer@cs.unc.edu</a>
+											<p class="desc">Computational Proteomics.</p>
+										</div>
 									</td>
 									
 									<td>
@@ -234,7 +242,7 @@
 										<!-- Sam Petrie -->
 										<div class="personCell">
 											<h3> Undergraduate </h3>
-											<img class="personImg" alt="Sam Petrie" src="img/Sam.png"/>
+											<img class="personImg" alt="Sam Petrie" src="img/Sam.jpg"/>
 											<p><strong>Sam Petrie</strong></p>
 											<!--<a href="mailto:nalinip@live.unc.edu" target="_blank">nalinip@live.unc.edu</a>-->
 											<p class="desc"></p>

@@ -17,7 +17,16 @@
 
 					<div class="content">
 						<p class="divider">2017</p>
-						<ul class="publications">	
+						<ul class="publications">
+							<li>
+								<a class="article" target="_blank" href="http://mcr.aacrjournals.org/content/early/2017/11/11/1541-7786.MCR-17-0468">
+									<span class="title">Competitive kinase enrichment proteomics reveals that Abemaciclib inhibits GSK3&beta; and activates WNT signaling.</span>
+								</a>
+								<span class="journal">MCR</span>					
+								<span class="authors">Emily M. Cousins, Dennis Goldfarb, Feng Yan, Jose Roques, David B. Darr, Gary L. Johnson, Michael B. Major</span>
+								<span class="datePage">November 2017</span>
+							</li>
+							<div style="clear:both;"></div>	
 							<li>
 								<a class="article" target="_blank" href="http://emboj.embopress.org/content/early/2017/06/29/embj.201696113">
 									<span class="title">Glycosylation of KEAP1 links nutrient sensing to redox stress signaling.</span>

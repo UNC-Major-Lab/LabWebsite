@@ -77,8 +77,28 @@
 										</div>
 									</td>
 								</tr>
-
-								<tr>		
+								
+								<tr>	
+									<td>
+										<!-- Erica Cloer -->
+										<div class="personCell">
+											<h3> Postdoctoral Fellow </h3>
+											<img class="personImg" alt="Erica Cloer" src="img/erica.png"/>
+											<p><strong>Erica Cloer</strong></p>
+											<a href="mailto:erica_cloer@med.unc.edu" target="_blank">erica_cloer@med.unc.edu</a>
+											<p class="desc">Team Keap/Nrf.</p>
+										</div>
+									</td>
+									<td>
+										<!-- Yuko Nakamichi -->
+										<div class="personCell">
+											<h3> Visiting Scholar </h3>
+											<img class="personImg" alt="Yuko Nakamichi" src="img/yuko.png"/>
+											<p><strong>Yuko Nakamichi, PhD</strong></p>
+											<a href="mailto:yuko@email.unc.edu" target="_blank">yuko@email.unc.edu</a>
+											<p class="desc">Team Wnt.</p>
+										</div>
+									</td>
 									<td>
 										<!-- Dennis Goldfarb -->
 										<div class="personCell">
@@ -92,16 +112,6 @@
 										</div>
 									</td>
 									<td>
-										<!-- Erica Cloer -->
-										<div class="personCell">
-											<h3> Graduate Student </h3>
-											<img class="personImg" alt="Erica Cloer" src="img/erica.png"/>
-											<p><strong>Erica Cloer</strong></p>
-											<a href="mailto:erica_cloer@med.unc.edu" target="_blank">erica_cloer@med.unc.edu</a>
-											<p class="desc">Team Keap/Nrf.</p>
-										</div>
-									</td>
-									<td>
 										<!-- Tigist Y Tamir -->
 										<div class="personCell">
 											<h3> Graduate Student </h3>
@@ -111,6 +121,8 @@
 											<p class="desc">Team Keap/Nrf.</br>Team Wnt.</p>
 										</div>
 									</td>
+								</tr>
+								<tr>
 									<td>
 										<!-- Megan Agajanian -->
 										<div class="personCell">
@@ -121,8 +133,6 @@
 											<p class="desc">Team Wnt.</p>
 										</div>
 									</td>
-								</tr>
-								<tr>
 									<td>
 										<!-- Ryan Murphy -->
 										<div class="personCell">
@@ -133,7 +143,6 @@
 											<p class="desc">Team Keap/Nrf.</p>
 										</div>
 									</td>
-								
 									<td>
 										<!-- Trent Stohrer -->
 										<div class="personCell">
@@ -144,13 +153,29 @@
 											<p class="desc">Computational Proteomics.</p>
 										</div>
 									</td>
-									
 									<td>
+										<!-- Seth Weir -->
+										<div class="personCell">
+											<h3> Undergraduate </h3>
+											<img class="personImg" alt="Seth Weir" src="img/seth.jpg"/>
+											<p><strong>Seth Weir</strong></p>
+											<a href="mailto:seth96@live.unc.edu" target="_blank">seth96@live.unc.edu</a>
+											<p class="desc">Team Keap/Nrf.</p>
+										</div>
 									</td>
 									
 									<td>
 									</td>
 								</tr>
+								
+								<tr>
+								
+									<td>
+									</td>
+								
+								</tr>
+								
+								
 							</tbody>
 						</table>
 

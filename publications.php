@@ -16,6 +16,17 @@
 					</div>
 
 					<div class="content">
+						<p class="divider">2018</p>
+						<ul class="publications">
+							<li>
+								<a class="article" target="_blank" href="http://clincancerres.aacrjournals.org/content/early/2018/02/08/1078-0432.CCR-17-1928">
+									<span class="title">Ponatinib shows potent antitumor activity in small cell carcinoma of the ovary hypercalcemic type (SCCOHT) through multi-kinase inhibition.</span>
+								</a>
+								<span class="journal">Clinical Cancer Research</span>
+								<span class="authors">Jessica D. Lang, William P.D. Hendricks, Krystal A. Orlando, Hongwei Yin, Jeffrey Kiefer, Pilar Ramos, Ritin Sharma, Patrick Pirrotte, Elizabeth A. Raupach, Chris Sereduk, Nanyun Tang, Winnie S. Liang, Megan Washington, Salvatore J. Facista, Victoria L. Zismann, Emily M. Cousins, Michael B. Major, Yemin Wang, Anthony N. Karnezis, Aleksandar Sekulic, Ralf Hass, Barbara C. Vanderhyden, Praveen Nair, Bernard E. Weissman, David G. Huntsman, Jeffrey M. Trent </span>
+								<span class="datePage">February 2018</span>
+							</li>
+							<div style="clear:both;"></div>
 						<p class="divider">2017</p>
 						<ul class="publications">
 							<li>

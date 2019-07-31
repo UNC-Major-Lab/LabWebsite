@@ -46,16 +46,7 @@
 											<p class="desc"></p>
 										</div>
 									</td>
-									<td>
-										<!-- Priscila Siesser -->
-										<div class="personCell">
-											<h3> Research Associate </h3>
-											<img class="personImg" alt="Priscila Siesser" src="img/priscila.jpg"/>
-											<p><strong>Priscila Siesser, PhD</strong></p>
-											<a href="mailto:priscila_siesser@med.unc.edu" target="_blank">priscila_siesser@med.unc.edu</a>
-											<p class="desc">Cell Biology.<br/>Cytoskeleton and motility.</p>
-										</div>
-									</td>
+									
 									<td>
 										<!-- Brittany Bowman -->
 										<div class="personCell">
@@ -76,21 +67,6 @@
 											<p class="desc">Team Keap/Nrf.</p>
 										</div>
 									</td>
-								</tr>
-								
-								<tr>	
-									<td>
-										<!-- Dennis Goldfarb -->
-										<div class="personCell">
-											<h3> Post-Doc Research Associate </h3>
-											<img class="personImg" alt="Dennis Goldfarb" src="img/dennis2.png"/>
-											<p><strong>Dennis Goldfarb</strong></p>
-											<a href="mailto:goldfarb@cs.unc.edu">goldfarb@cs.unc.edu</a>
-											<p class="desc">Co-mentored by <a href="http://www.cs.unc.edu/~weiwang/" target="_blank" style="font-size:12px">Wei Wang</a>
-											</p>
-											<p class="desc">Computational proteomics.</p>
-										</div>
-									</td>
 									<td>
 										<!-- Dhaval Bhatt -->
 										<div class="personCell">
@@ -98,6 +74,20 @@
 											<img class="personImg" alt="Dhaval Bhatt" src="img/dhaval.png"/>
 											<p><strong>Dhaval Bhatt</strong></p>
 											<a href="mailto:dhaval.bhatt@med.unc.edu">dhaval.bhatt@med.unc.edu</a>
+											<p class="desc">Team Dark Kinome.</p>
+										</div>
+									</td>
+								</tr>
+								
+								<tr>	
+									
+									<td>
+										<!-- Kyle LaPak -->
+										<div class="personCell">
+											<h3> Post-Doc Research Associate </h3>
+											<img class="personImg" alt="Kyle LaPak" src="img/kyle.jpg"/>
+											<p><strong>Kyle LaPak</strong></p>
+											<a href="mailto:kyle.lapak@wustl.edu">kyle.lapak@wustl.edu</a>
 											<p class="desc">Team Dark Kinome.</p>
 										</div>
 									</td>
@@ -121,10 +111,6 @@
 											<p class="desc">Team Wnt.</p>
 										</div>
 									</td>
-									
-								</tr>
-								
-								<tr>
 									<td>
 										<!-- Tigist Y Tamir -->
 										<div class="personCell">
@@ -132,9 +118,13 @@
 											<img class="personImg" alt="Tigist Y Tamir" src="img/tigist.jpeg"/>
 											<p><strong>Tigist Y Tamir</strong></p>
 											<a href="mailto:tytamir@email.unc.edu" target="_blank">tytamir@email.unc.edu</a>
-											<p class="desc">Team Keap/Nrf.</br>Team Wnt.</p>
+											<p class="desc">Team Keap/Nrf.<br/>Team Wnt.</p>
 										</div>
 									</td>
+								</tr>
+								
+								<tr>
+									
 									<td>
 										<!-- Megan Agajanian -->
 										<div class="personCell">
@@ -145,20 +135,11 @@
 											<p class="desc">Team Wnt.</p>
 										</div>
 									</td>
-									<td>
-										<!-- Ryan Murphy -->
-										<div class="personCell">
-											<h3> Graduate Student </h3>
-											<img class="personImg" alt="Ryan Murphy" src="img/ryan.png"/>
-											<p><strong>Ryan Murphy</strong></p>
-											<a href="mailto:ryanmarymurphy@unc.edu" target="_blank">ryanmarymurphy@unc.edu</a>
-											<p class="desc">Team Keap/Nrf.</p>
-										</div>
-									</td>
+									
 									<td>
 										<!-- Trent Stohrer -->
 										<div class="personCell">
-											<h3> Graduate Student </h3>
+											<h3> Research Assistant </h3>
 											<img class="personImg" alt="Trent Stohrer" src="img/trent.jpg"/>
 											<p><strong>Trent Stohrer</strong></p>
 											<a href="mailto:tstohrer@cs.unc.edu" target="_blank">tstohrer@cs.unc.edu</a>
@@ -166,56 +147,12 @@
 										</div>
 									</td>
 									
-									
-								
-								</tr>
-								
-								<tr>
 									<td>
-										<!-- Stephen Serafin -->
-										<div class="personCell">
-											<h3> Graduate Student </h3>
-											<img class="personImg" alt="Stephen Serafin" src="img/stephen.jpg"/>
-											<p><strong>Stephen Serafin</strong></p>
-											<a href="mailto:dserafin@email.unc.edu" target="_blank">dserafin@email.unc.edu</a>
-											<p class="desc">Team Wnt.</p>
-										</div>
 									</td>
 									<td>
-										<!-- Selin Altinok -->
-										<div class="personCell">
-											<h3> Graduate Student </h3>
-											<img class="personImg" alt="Not Selin" src="img/janedoe.png"/>
-											<p><strong>Selin Altinok</strong></p>
-											<a href="mailto:saltinok@email.unc.edu" target="_blank">saltinok@email.unc.edu</a>
-											<p class="desc">Team Keap/Nrf.</p>
-										</div>
-									</td>
-									<td>
-										<!-- Seth Weir -->
-										<div class="personCell">
-											<h3> Undergraduate </h3>
-											<img class="personImg" alt="Seth Weir" src="img/seth.jpg"/>
-											<p><strong>Seth Weir</strong></p>
-											<a href="mailto:seth96@live.unc.edu" target="_blank">seth96@live.unc.edu</a>
-											<p class="desc">Team Keap/Nrf.</p>
-										</div>
-									</td>
-									
-									<td>
-										<!-- Cynthia Xiao Dong -->
-										<div class="personCell">
-											<h3> Undergraduate </h3>
-											<img class="personImg" alt="Cynthia Xiao Dong" src="img/cynthia.jpg"/>
-											<p><strong>Cynthia Xiao Dong</strong></p>
-											<a href="mailto:xcynthia@live.unc.edu" target="_blank">xcynthia@live.unc.edu</a>
-											<p class="desc">Team Figuring It Out.</p>
-										</div>
 									</td>
 								
 								</tr>
-								
-								
 							</tbody>
 						</table>
 
@@ -226,16 +163,92 @@
 							<tbody>
 								<tr>
 									<td>
+										<!-- Dennis Goldfarb -->
+										<div class="personCell">
+											<h3> Post-Doc Associate </h3>
+											<img class="personImg" alt="Dennis Goldfarb" src="img/dennis2.png"/>
+											<p><strong>Dennis Goldfarb</strong></p>
+											<a href="mailto:d.goldfarb@wustl.edu">d.goldfarb@wustl.edu</a>
+											<p class="desc">Assistant Professor at Wash U St. Louis</p>
+										</div>
+									</td>
+
+									<td>
+										<!-- Priscila Siesser -->
+										<div class="personCell">
+											<h3> Research Associate </h3>
+											<img class="personImg" alt="Priscila Siesser" src="img/priscila.jpg"/>
+											<p><strong>Priscila Siesser, PhD</strong></p>
+											<a href="mailto:priscila_siesser@med.unc.edu" target="_blank">priscila_siesser@med.unc.edu</a>
+											<p class="desc">Dr. Jim Bear Lab at UNC</p>
+										</div>
+									</td>
+
+									<td>
+										<!-- Ryan Murphy -->
+										<div class="personCell">
+											<h3> Graduate Student </h3>
+											<img class="personImg" alt="Ryan Murphy" src="img/ryan.png"/>
+											<p><strong>Ryan Murphy</strong></p>
+											<a href="mailto:ryanmarymurphy@unc.edu" target="_blank">ryanmarymurphy@unc.edu</a>
+											<p class="desc">Grad Student in Dr. Tony Amelio's Lab at UNC</p>
+										</div>
+									</td>
+									<td>
+										<!-- Stephen Serafin -->
+										<div class="personCell">
+											<h3> Graduate Student </h3>
+											<img class="personImg" alt="Stephen Serafin" src="img/stephen.jpg"/>
+											<p><strong>Stephen Serafin</strong></p>
+											<a href="mailto:dserafin@email.unc.edu" target="_blank">dserafin@email.unc.edu</a>
+											<p class="desc">Grad Student in Dr. Kathleen Caron's Lab at UNC</p>
+										</div>
+									</td>
+								</tr>
+								
+								<tr>	
+									<td>
+										<!-- Selin Altinok -->
+										<div class="personCell">
+											<h3> Graduate Student </h3>
+											<img class="personImg" alt="Not Selin" src="img/janedoe.png"/>
+											<p><strong>Selin Altinok</strong></p>
+											<a href="mailto:saltinok@email.unc.edu" target="_blank">saltinok@email.unc.edu</a>
+											<p class="desc">Grad Student in Dr. Jonathan Schisler's Lab at UNC</p>
+										</div>
+									</td>
+									<td>
+										<!-- Seth Weir -->
+										<div class="personCell">
+											<h3> Undergraduate </h3>
+											<img class="personImg" alt="Seth Weir" src="img/seth.jpg"/>
+											<p><strong>Seth Weir</strong></p>
+											<a href="mailto:seth96@live.unc.edu" target="_blank">seth96@live.unc.edu</a>
+											<p class="desc">Researcher in Dr. Timothy Gershon's Lab at UNC</p>
+										</div>
+									</td>
+									<td>
+										<!-- Cynthia Xiao Dong -->
+										<div class="personCell">
+											<h3> Undergraduate </h3>
+											<img class="personImg" alt="Cynthia Xiao Dong" src="img/cynthia.jpg"/>
+											<p><strong>Cynthia Xiao Dong</strong></p>
+											<a href="mailto:xcynthia@live.unc.edu" target="_blank">xcynthia@live.unc.edu</a>
+											<p class="desc">Undergraduate Student at UNC</p>
+										</div>
+									</td>
+									<td>
 									<!-- Emily Cousins -->
 										<div class="personCell">
 											<h3> Postdoctoral Fellow </h3>
 											<img class="personImg" alt="Emily Cousins" src="img/emilyCousins.jpg"/>
 											<p><strong>Emily Cousins</strong></p>
 											<a href="mailto:emily.m.cousins@gmail.com">emily.m.cousins@gmail.com</a>
-											<p class="desc">Michigan (blame Trent for current lack of detail)</p>
+											<p class="desc">In Michigan</p>
 										</div>	
 									</td>
-
+								</tr>
+								<tr>
 									<td>
 									<!-- Kathryn Mackinnon -->
 										<div class="personCell">
@@ -266,10 +279,7 @@
 											<p class="desc">Now a medical student at East Carolina University.</p>
 										</div>	
 									</td>
-
-								</tr>
-								
-								<tr>	
+									
 									<td>
 									<!-- Alex Rabinowitz -->
 										<div class="personCell">
@@ -280,7 +290,9 @@
 											<p class="desc">Lab Technician at the <a href="http://www.med.unc.edu/geneticsdept/asokanlab/Asokan_La_1./Home.html" target="_blank">Asokan Lab.</a></p>
 										</div>		
 									</td>
-									
+								</tr>
+								
+								<tr>
 									<td>
 									<!-- Abby Winn -->
 											<div class="personCell">
@@ -313,8 +325,6 @@
 											<p class="desc"></p>
 										</div>	
 									</td>
-								</tr>
-								<tr>
 									<td>
 									<!-- Sam Petrie -->
 										<div class="personCell">
@@ -325,7 +335,8 @@
 											<p class="desc"></p>
 										</div>	
 									</td>
-									
+								</tr>
+								<tr>
 									<td>
 									<!-- Feng Yang -->
 										<div class="personCell">
@@ -356,9 +367,6 @@
 											<p class="desc">Software Developer</p>
 										</div>
 									</td>
-								</tr>
-								
-								<tr>
 									<td>
 									<!-- Matt Walker -->
 										<div class="personCell">
@@ -366,9 +374,11 @@
 											<img class="personImg" alt="Matt Walker" src="img/matt.png"/>
 											<p><strong>Matt Walker, PhD</strong></p>
 											<a href="mailto:mattwa@med.unc.edu" target="_blank">mattwa@med.unc.edu</a>
-											<p class="desc">Scientist at Spyryx Biosciences.</p>
+											<p class="desc">Senior Scientist at Element Genomics.</p>
 										</div>	
 									</td>
+								</tr>
+								<tr>
 									<td>
 									<!-- Kathleen Mulvaney -->
 										<div class="personCell">
@@ -377,6 +387,8 @@
 											<p><strong>Kathleen Mulvaney</strong></p>
 											<p class="desc">Postdoctoral Fellow</br>Sellers lab at the Broad Institute</p>
 										</div>
+									</td>
+									<td>
 									</td>
 									<td>
 									</td>

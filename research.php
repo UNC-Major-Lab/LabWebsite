@@ -30,63 +30,81 @@
 							challenged through mechanistic studies employing cultured human cancer cells, zebrafish, mice and in vitro biochemical systems. With this 
 							general approach, we are currently pursuing the following projects: </p>
 	      
-							<details>
-								<summary class="divider">Wnt/&beta;-catenin Signal Transduction</summary>
-								<p> Of the relatively small number of signaling pathways that function as master regulators of development, 
-									adult tissue homeostasis and cancer, the &beta;-catenin dependent Wnt pathway (Wnt/&beta;-catenin) figures prominently; it regulates the growth and fate 
-									of neoplastic cells in tissues of diverse origin, notably the colon, kidney, breast and skin. Integrative molecular analysis of Wnt/&beta;-catenin 
-									signaling in kidney and colon cancer models yielded numerous discoveries of mechanistic and clinical importance. Work in my lab is now focusing 
-									on an integrative analysis of Wnt signaling in pancreatic adenocarcinoma and lung cancer. For both cancer models, independent functional 
-									genomic screens have been completed and have identified numerous novel regulators, some of which are mutated in human cancer. In addition,
-									we are looking more closely at a family of proteins I discovered to regulate Wnt signaling in Wilms tumor. Specifically, we are working to 
-									understand the mechanism(s) by which members of the WTX gene family regulate Wnt signaling and oncogenesis.</p>
+								<details>
+									<summary class="divider">Mechanistic Studies of Wnt/&beta;-catenin Signaling</summary>
+									<p> Of the relatively small number of signaling pathways that function as master regulators of development, adult tissue homeostasis and cancer,
+										the &beta;-catenin dependent Wnt pathway (Wnt/&beta;-catenin) figures prominently; it regulates the growth and fate of neoplastic cells in tissues of diverse
+										origin, notably the colon, kidney, breast and skin. My group has performed an array of proteomic and functional genomic studies of WNT signaling, 
+										including protein-protein interaction screens, kinase enrichment profiling, phospho-proteomics, siRNA and haploid mutagenesis loss-of-function screens, 
+										and more recently, novel gain-of-function screens. Integration of these data has and continues to reveal mechanistic insight and new disease-relevant 
+										regulators of pathway activity. As an example, our gain-of-function genomic screens demonstrated that the FOXP1 transcription factor activates &beta;-catenin
+										dependent transcription. Proteomic analyses demonstrated that FOXP1 binds the &beta;-catenin transcriptional complex on chromatin. Disease-focused studies in 
+										mice and human clinical samples demonstrated that FOXP1 overexpression in B-cell lymphoma activates WNT signaling to promote tumor growth. In more recent work, 
+										we discovered that the ubiquitin-specific protease (USP6) deubiquitylates the WNT receptor to govern its endocytosis. We also discovered a WNT-driven negative 
+										feedback loop that activates the AAK1 kinase to promote endocytosis of LRP6.</p>
 								</details>
 								<details>
-									<summary class="divider">Keap1/Nrf2 Signal Transduction</summary>
-									<p>Keap1 is an E3 ubiquitin ligase important for cellular defense against genotoxic stress, and in that context 
-										contributes fundamentally to aging and a myriad of human cancers, most notably lung cancer. Keap1 functions by ubiquitinating the Nrf2 
-										transcription factor, which ultimately results in the proteosomal degradation of Nrf2. In an effort to better understand Keap1 in an oncogenic 
-										contect, I completed quantitative proteomic analysis of the Keap1 protein complex as well as functional genomic screen of the Keap1/Nrf2 
-										pathway. The resulting integrative map has identified numerous novel proteins which both physically associate with keap1 as well as functional 
-										regulate Keap1/Nrf2 signaling. Ongoing work in the lab is focused on understanding the mechanisms by which these proteins control Keap1 function 
-										as well as uncovering new cancer connections.</p>
-									</details>
+									<summary class="divider">KEAP1 and NRF2 Signal Transduction in Cancer</summary>
+									<p> KEAP1 is an E3 ubiquitin ligase important for cellular defense against oxidative stress, and in that context contributes fundamentally to aging, 
+										neurodegeneration, and a myriad of human cancers, most notably lung cancer. KEAP1 functions by ubiquitylating the NRF2 transcription factor, 
+										resulting in NRF2 degradation. In cancer, mutations within NRF2 or KEAP1 result in constitutive NRF2-driven expression of cytoprotective genes—this occurs 
+										in ~30% of lung cancer. In an effort to better understand KEAP1/NRF2, we were the first to define and validate a KEAP1 protein-protein interaction network. 
+										This revealed a group of KEAP1-associated proteins that competitively displaces NRF2, driving pathway activation. Our work has also begun to connect KEAP1 
+										genotype with phenotype, wherein we functionally and biochemically characterized 19 lung cancer KEAP1 mutations. This revealed that ~half of the KEAP1 cancer 
+										mutations are hypomorphic, and surprisingly retain the ability to ubiquitylate NRF2.  Ongoing work is focused on the mechanism by which these ‘ANCHOR’ mutants 
+										impair KEAP1-dependent degradation (but not ubiquitylation) of NRF2 function. Based off of proteomic, functional genomic and pharmacological screens, we are 
+										also pursuing novel NRF2-independent functions for KEAP1, including a cell cycle phenotype relevant for lung cancer cell proliferation. Most recently, we have 
+										created a new NRF2-active mouse model, allowing us to test the importance of our discoveries and the various biological impacts of NRF2 in a physiologically 
+										relevant system.</p>
+								</details>
 	      
-									<details>
-										<summary class="divider">E3 Ubiquitin Ligase Substrate Identification</summary>
-										<p>E3 ubiquitin ligase complexes provide specificity and catalysis for the transfer of ubiquitin 
-											to target proteins, a post-translational modification that results in proteosome-mediated degradation, altered subcellular localization or 
-											changes in protein interaction. As such, E3 ubiquitin ligases regulate every facet of cell biology, and importantly, are frequently perturbed 
-											in disease states such as cancer. While expanding my protein-protein interaction network for the Wnt/&beta;-catenin pathway, I performed tandem 
-											affinity purification and mass spectrometry on &beta;TrCP, the E3 ubiquitin ligase responsible for &beta;-catenin degration. As the E3 complex is 
-											catalytic in action, many of the known &beta;TrCP substrates were not identified by LC/MS/MS. As such I designed and implemented a novel approach 
-											which stabilizes the E3-substrate interaction. Using this strategy, I have identified novel substrates for both the &beta;TrCp and Keap1 E3 
-											ubiquitin ligases. Work in my laboratory is exploiting this system to identify substrates for uncharacterized E3 ubiquitin ligases, 
-											specifically those with established connections to human disease. Follow-up experiments require biochemical purification of target 
-											substrate following gain-of-function and/or loss-of-function of the E3, in vitro analysis of the ubiquitination reaction, and histological 
-											assessment of substrate expression in patient tissue samples. Of great importance, and in fact the greatest challenge, is the demonstration 
-											of biological significance for the E3-substrate relationship. To address this, my lab implements an array of technologies encompassing cDNA 
-											microarray analysis, proteomics and whole organism studies.</p>
-										</details>
+								<details>
+									<summary class="divider">Computational Proteomics and Functional Genomic Technologies</summary>
+									<p> A central tenet of my research program is discovery-based science, founded largely upon mass spectrometry-driven proteomics, functional genomics 
+										and disease annotation. The integration of these disparate data types eliminates false positives, rescues false negatives, and highlights neighborhoods 
+										within the global network of phenotypic, mechanistic and disease importance. Our ability to integrate and evaluate large datasets has improved dramatically 
+										in recent years. My team developed a machine learning approach to probabilistically score and functionally annotate protein-protein interactions—this is the 
+										most accurate scoring platform currently available (Spotlite). We also developed an improved MS data acquisition simulator, which facilitates the development 
+										of new algorithms for improved protein sequencing. Most recently, we developed novel algorithms to approximate isotopic distributions of MS2 fragment ions; 
+										this allows decomplexing of chimeric spectra and improved peptide identification. Within the proteomics arena, we have devoted great effort to kinase enrichment 
+										mass spectrometry to capture, identify and quantify the kinome in a single mass spectrometry run. In a recent example, we used this approach in a competitive 
+										fashion to define the kinase target landscape for FDA-approved kinase inhibitors. We are also developing new functional genomic screening technologies, but rather
+										than continue with the more traditional loss-of-function approaches (siRNA, haploid mutagenesis), our efforts have focused on gain-of-function genome annotation. 
+										To this end, we developed an arrayed lentiviral clone library and a mass spectrometry-coupled genome-wide hypermorphic functional annotation technology called 
+										CDt/MS (listed under the WNT section). CrisprA and CrisprI screens are also being employed.</p>
+								</details>
+
+								<details>
+									<summary class="divider">Protein-protein Interaction Networks and E3 Ubiquitin Ligase Substrate Discovery</summary>
+									<p> E3 ubiquitin ligase complexes provide specificity and catalysis for the transfer of ubiquitin to target proteins, a post-translational modification that 
+										results in proteasome-mediated degradation, altered subcellular localization or changes in protein interaction. Traditional pull-down/MS approaches fail 
+										to identify many E3 substrates, in part because the E3 complex is catalytic in action and because substrates are often short-lived. We use pharmacological 
+										and genetic approaches to stabilize the E3-substrate interaction. To date, we have identified known and novel substrates for the &beta;TrCP, KEAP1 and RAD18 E3 
+										ubiquitin ligases. Work in my laboratory is exploiting these system to identify substrates for uncharacterized E3 ubiquitin ligases, specifically those with 
+										established connections to oxidative stress signaling, Wnt signaling and human disease.  Beyond E3 ligases, we are working within a larger team to illuminate 
+										the understudied kinome, a set of 162 kinases that remain relatively uncharacterized. My team is defining the protein-protein interaction and proximity networks 
+										for these kinases. Additionally, we are ‘binning’ the understudied kinases into signal transduction pathways using arrayed ORF screens and Crispr-based gain and 
+										loss-of-function screens.</p>
+								</details>
 	      
-										<details>
-											<summary class="divider">Genetic Screening Platforms</summary>
-											<p>In addition to this integrative analysis of signaling, we are also actively working to develop a human somatic cell forward-genetic 
-												screening platform. Eukaryotic cells sense and interpret extracellular cues through a highly integrated network of intracellular signaling 
-												pathways. The identification of these pathways and their constituent proteins can be largely attributed to genetic screens in yeast, 
-												Drosophila, c-elegans and zebrafish, each of which permits random mutagenesis screening and clonal isolation in a homozygous state. 
-												RNA interference provides analogous loss-of-function technologies in mammalian systems, and by doing so has revolutionized the significance 
-												and speed of our discoveries. However, RNA interference-based screens are expensive and fraught with artifact, owing in part to off-target 
-												effects and incomplete silencing. An exciting and ongoing effort in my lab is to realize somatic cell genetic screens in human cells. 
-												We are pursuing this goal through retroviral insertional mutagenesis of stable near-haploid human cell lines. Leveraging our existing 
-												expertise in proteomic and functional genomic analysis of signal transduction, we are employing this haploid screening platform to 
-												comprehensively identify proteins and microRNAs required for the following signaling pathways, each of which functions as a master 
-												regulator of human disease and human development: TGF&beta;, Wnt/&beta;-catenin, retinoic acid, NF-&kappa;B and hedgehog. A systems-level integration 
-												of the resulting functional data with protein-protein interaction networks, genome-wide association data and transcriptional signatures 
-												will reveal targets of diagnostic, prognostic and therapeutic value. Considering only the haploid screening approach, success promises 
-												rapid, unbiased and inexpensive complete loss-of-function phenotypic screening of human cells, and therefore has the potential to 
-												transform the experimental strategies taken in both basic and applied sciences.</p>
-											</details>
+								<details>
+									<summary class="divider">Genetic Screening Platforms</summary>
+									<p>In addition to this integrative analysis of signaling, we are also actively working to develop a human somatic cell forward-genetic 
+										screening platform. Eukaryotic cells sense and interpret extracellular cues through a highly integrated network of intracellular signaling 
+										pathways. The identification of these pathways and their constituent proteins can be largely attributed to genetic screens in yeast, 
+										Drosophila, c-elegans and zebrafish, each of which permits random mutagenesis screening and clonal isolation in a homozygous state. 
+										RNA interference provides analogous loss-of-function technologies in mammalian systems, and by doing so has revolutionized the significance 
+										and speed of our discoveries. However, RNA interference-based screens are expensive and fraught with artifact, owing in part to off-target 
+										effects and incomplete silencing. An exciting and ongoing effort in my lab is to realize somatic cell genetic screens in human cells. 
+										We are pursuing this goal through retroviral insertional mutagenesis of stable near-haploid human cell lines. Leveraging our existing 
+										expertise in proteomic and functional genomic analysis of signal transduction, we are employing this haploid screening platform to 
+										comprehensively identify proteins and microRNAs required for the following signaling pathways, each of which functions as a master 
+										regulator of human disease and human development: TGF&beta;, Wnt/&beta;-catenin, retinoic acid, NF-&kappa;B and hedgehog. A systems-level integration 
+										of the resulting functional data with protein-protein interaction networks, genome-wide association data and transcriptional signatures 
+										will reveal targets of diagnostic, prognostic and therapeutic value. Considering only the haploid screening approach, success promises 
+										rapid, unbiased and inexpensive complete loss-of-function phenotypic screening of human cells, and therefore has the potential to 
+										transform the experimental strategies taken in both basic and applied sciences.</p>
+								</details>
 											<!--<p class="divider-blue small">Clinical Interests</p>
 												<div class="ul-div">
 												<ul class="topmenu">

@@ -16,8 +16,83 @@
 					</div>
 
 					<div class="content">
+						<p class="divider">2019</p>
+						<ul class="publications">
+							<li>
+								<a class="article" target="_blank" href="http://cancerres.aacrjournals.org/content/early/2019/02/12/0008-5472.CAN-18-2723.abstract">
+									<span class="title">NRF2 Activation in Cancer: From DNA to Protein</span>
+								</a>
+								<span class="journal">Cancer Research</span>
+								<span class="authors"> Erica W. Cloer, Dennis Goldfarb, Travis P. Schrank, Bernard E. Weissman, Michael B. Major</span>
+								<span class="datePage">February 2019</span>
+							</li>
+							<div style="clear:both;"></div>
+							<li>
+								<a class="article" target="_blank" href="https://www.cell.com/cell-reports/fulltext/S2211-1247(18)31953-3">
+									<span class="title">WNT Activates the AAK1 Kinase to Promote Clathrin-Mediated Endocytosis of LRP6 and Establish a Negative Feedback Loop</span>
+								</a>
+								<span class="journal">Cell Reports</span>
+								<span class="authors">Megan J. Agajanian, Matthew P. Walker, Alison D. Axtman, Roberta R. Ruela-de-Sousa, D. Stephen Serafin, Alex D. Rabinowitz, David M. Graham, Meagan B. Ryan, Tigist Tamir, Yuko Nakamichi, Melissa V. Gammons, James M. Bennett, Rafael M. Couñago, David H. Drewry, Jonathan M. Elkins, Carina Gileadi, Opher Gileadi, Paulo H. Godoi, Nirav Kapadia, Susanne Müller, André S. Santiago, Fiona J. Sorrell, Carrow I. Wells, Oleg Federov, Timothy M. Willson, William J. Zuercher, Michael B. Major</span>
+								<span class="datePage">January 2019</span>
+							</li>
+							<div style="clear:both;"></div>
+						</ul>
 						<p class="divider">2018</p>
 						<ul class="publications">
+							<li>
+								<a class="article" target="_blank" href="http://www.jbc.org/content/early/2018/11/08/jbc.RA118.005963.abstract">
+									<span class="title">Hyperactivity of the transcription factor Nrf2 causes metabolic reprogramming in mouse esophagus.</span>
+								</a>
+								<span class="journal">Journal of Biological Chemistry</span>
+								<span class="authors">Junsheng Fu, Zhaohui Xiong, Caizhi Huang, Jing Li, Wenjun Yang, Yuning Han, Chorlada Paiboonrungruan, Michael B Major, Keneng Chen, Xiaozheng Kang, Xiaoxin Luke Chen </span>
+								<span class="datePage">November 2018</span>
+							</li>
+							<div style="clear:both;"></div>
+							<li>
+								<a class="article" target="_blank" href="https://www.nature.com/articles/s41598-018-33601-w">
+									<span class="title">The Cancer/Testes(CT) Antigen HORMAD1 promotes Homologous Recombinational DNA Repair and Radioresistance in Lung adenocarcinoma cells.</span>
+								</a>
+								<span class="journal">Scientific Reports</span>
+								<span class="authors">Yanzhe Gao, Jordan Kardos, Yang Yang, Tigist Y. Tamir, Elizabeth Mutter-Rottmayer, Bernard Weissman, Michael B. Major, William Y. Kim, Cyrus Vaziri </span>
+								<span class="datePage">October 2018</span>
+							</li>
+							<div style="clear:both;"></div>
+							<li>
+								<a class="article" target="_blank" href="https://pubs.acs.org/doi/10.1021/acsomega.8b01649">
+									<span class="title">Approximating Isotope Distributions of Biomolecule Fragments.</span>
+								</a>
+								<span class="journal">ACS Omega</span>
+								<span class="authors">Dennis Goldfarb, Michael J. Lafferty, Laura E. Herring, Wei Wang, Michael B. Major </span>
+								<span class="datePage">September 2018</span>
+							</li>
+							<div style="clear:both;"></div>
+							<li>
+								<a class="article" target="_blank" href="https://mcb.asm.org/content/early/2018/08/16/MCB.00644-17">
+									<span class="title">p62-dependent phase separation of patient-derived KEAP1 mutations and NRF2.</span>
+								</a>
+								<span class="journal">Molecular and Cellular Biology</span>
+								<span class="authors">E.W. Cloer, P.F. Siesser, E.M. Cousins, D. Goldfarb, D.D. Mowrey, J.S. Harrison, S.J. Weir, N.V. Dokholyan, M.B. Major </span>
+								<span class="datePage">August 2018</span>
+							</li>
+							<div style="clear:both;"></div>	
+							<li>
+								<a class="article" target="_blank" href="https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1111/nyas.13681">
+									<span class="title">Targeted therapy of esophageal squamous cell carcinoma: the NRF2 signaling pathway as target.</span>
+								</a>
+								<span class="journal">Annals of the NYAS</span>
+								<span class="authors">Shaohua Ma, Chorlada Paiboonrungruan, Tiansheng Yan, Kevin P. Williams, M. Ben Major, Xiaoxin Luke Chen </span>
+								<span class="datePage">May 2018</span>
+							</li>
+							<div style="clear:both;"></div>	
+							<li>
+								<a class="article" target="_blank" href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/cplu.201700539">
+									<span class="title"> Computer‐Aided Design and Synthesis of 1‐{4‐[(3,4‐Dihydroxybenzylidene)amino]phenyl}‐5‐oxopyrrolidine‐3‐carboxylic Acid as an Nrf2 Enhancer.</span>
+								</a>
+								<span class="journal">ChemPlusChem</span>
+								<span class="authors">Shirin Kahremany, Ilana Babaev, Pinhas Hasin, Tigist Y. Tamir, Tali Ben-Zur, Guy Cohen, Zhengyu Jiang, Sagiv Weintraub, Daniel Offen, Shai Rahimipour, M. Ben Major, Hanoch Senderowitz, Arie Gruzman </span>
+								<span class="datePage">February 2018</span>
+							</li>
+							<div style="clear:both;"></div>
 							<li>
 								<a class="article" target="_blank" href="http://clincancerres.aacrjournals.org/content/early/2018/02/08/1078-0432.CCR-17-1928">
 									<span class="title">Ponatinib shows potent antitumor activity in small cell carcinoma of the ovary hypercalcemic type (SCCOHT) through multi-kinase inhibition.</span>
@@ -27,6 +102,7 @@
 								<span class="datePage">February 2018</span>
 							</li>
 							<div style="clear:both;"></div>
+						</ul>
 						<p class="divider">2017</p>
 						<ul class="publications">
 							<li>
@@ -110,7 +186,7 @@
 							<div style="clear:both;"></div>
 							
 							<li>
-								<a class="article" target="_blank" href="http://www.nature.com/ncomms/2016/160705/ncomms12105/full/ncomms12105.html">
+								<a class="article" target="_blank" href="http://www.pnas.org/content/113/21/E2945.long">
 									<span class="title">USP6 oncogene promotes Wnt signaling by deubiquitylating Frizzleds.</span>
 								</a>
 								<span class="journal">Proceedings of the National Academy of Sciences</span>
@@ -179,7 +255,7 @@
 								<a class="article" target="_blank" href="http://mcb.asm.org/content/early/2014/10/14/MCB.00857-14.abstract?related-urls=yes&legid=mcb;MCB.00857-14v1">
 									<span class="title">Substrate trapping proteomics reveals targets of the &beta;TrCP2/FBXW11 ubiquitin ligase.</span>
 								</a>
-								<span class="journal">Molceular and Cellular Biology</span>
+								<span class="journal">Molecular and Cellular Biology</span>
 								<span class="authors">Tai Young Kim, Priscila F. Siesser, Kent L. Rossman, Dennis Goldfarb, Kathryn Mackinnon, Feng Yan, XianHua Yi, Michael J. MacCoss, Randall T. Moon, Channing J. Der, and Michael B. Major.</span>								
 								<span class="datePage">Oct. 2014</span>
 							</li>

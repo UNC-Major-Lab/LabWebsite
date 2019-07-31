@@ -117,6 +117,14 @@
 													</ul>
 												</div>
 												<div style="clear:both"></div>
+												<div class="ul-div no-bullet" style="margin-left:10px; margin-top:10px;">
+													<ul class="ul-images">
+														<li>
+															<a href="https://druggablegenome.net/" target="_blank"><img src="img/funding/dark_kinome.png" alt=""/></a>
+														</li>
+													</ul>
+												</div>
+												<div style="clear:both"></div>
 											</div>
 										</div>
 									</div>

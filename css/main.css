@@ -16,7 +16,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 
 html {
     height: 100%;
-    background: url("../img/grad2l.png") repeat scroll left top transparent;
+    background: repeat scroll left top transparent ;
 }
 
 body {
@@ -30,26 +30,26 @@ body {
 
 h1 {
 	font-size:1.6em;
-	color:#56A0D3;
+	color:#173e3a;
 }
 
 h2 {
 	font-size:1.5em;
-	color:#56A0D3;
+	columns: #A51417;
 }
 
 h3 {
 	font-size:1.2em;
-	color:#56A0D3;
+	color:#173e3a;
 }
 
 a {
-	color:#56A0D3;
+	color:#6C7373;
 	text-decoration:none;
 }
 
 a:hover {
-	color:#99CD00;
+	color:#000000;
 	text-decoration:none;
 }
 
@@ -80,7 +80,7 @@ details p {
 } 
 
 summary:hover {
-    background: #ccc;
+    background: #173e3a;
 }
 
 .no-details details > * {
@@ -101,12 +101,12 @@ summary {
 }
 
 #bigHome:hover {
-	color:#56A0D3;
+	color:#000000;
 	text-decoration:none;
 }
 
 #stripe1 {
-	background:url("../img/grad1c.png") repeat-x scroll left center #111111;
+	background: repeat-x scroll left center #A51417;
 	width:100%;
 }
 
@@ -119,7 +119,7 @@ summary {
 }
 
 #str1 {
-	background:url("../img/str1d_bg.png") no-repeat scroll center center transparent;
+	background: no-repeat scroll center center transparent ;
 }
 
 #str1 .innerdiv {
@@ -190,7 +190,7 @@ summary {
 }
 
 #footer {
-    background:url("../img/grad1c.png") repeat-x scroll left top;
+    background: repeat-x scroll left top #A51417;
     width:100%;
     height: 40px;
     margin-top: -40px;
@@ -284,7 +284,7 @@ summary {
 }
 
 .article:hover {
-    color: #56a0d3;
+    color: #6C7373;
 }*/
 
 .journal {    
@@ -296,7 +296,8 @@ summary {
 
 .divider {
     margin-top:15px;
-    background-color: #99cd00;
+    background-color: #007360;
+    color: #EEEEEE;
     border-radius:7px;
     -moz-border-radius:7px;
     -webkit-border-radius:7px;
@@ -318,7 +319,7 @@ summary {
     padding-bottom:2px;
     background-color: #EEF1F6;
     border: 2px solid #CCC;
-    color: #56A0D3;
+    color: #173e3a;
 }
 
 
@@ -392,7 +393,7 @@ summary {
 
 #clinical {
     list-style: none;
-    color: #56A0D3;
+    color: #6C7373;
     margin-left: 2px;;
 }
 
@@ -445,7 +446,7 @@ div.content {
     padding: 5px 4px 5px 10px;
     position:relative;
     right:50%;
-    background: url("../img/menu.png") no-repeat center left;
+    background: url("../img/menu_new.png") no-repeat center left;
 }
 
 .ul-div ul li span {
@@ -471,7 +472,7 @@ div.content {
 }
 
 .ul-div ul li a:hover {
-    color: #56A0D3;
+    color: #000000;
 }
 
 
@@ -522,7 +523,7 @@ tr.description {
 
 .cal_desc_divider {
     margin-top:15px;
-    background-color: #99cd00;
+    background-color: #A51417;
     border-radius:7px;
     -moz-border-radius:7px;
     -webkit-border-radius:7px;
@@ -687,7 +688,7 @@ form label {
     font-weight: bold;
     margin-bottom: 5px;
     padding-bottom: 5px;
-    border-bottom: 2px solid #56A0D3;
+    border-bottom: 2px solid #6C7373;
 }
 
 .spotlite {

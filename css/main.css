@@ -3,7 +3,7 @@
 *************************************/
 
 
-html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, a_redbg, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
 	border:0 none;
 	font-family:inherit;
 	font-size:100%;
@@ -16,7 +16,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 
 html {
     height: 100%;
-    background: repeat scroll left top transparent ;
+    background: repeat scroll left top #E1C4AC ;
 }
 
 body {
@@ -44,12 +44,22 @@ h3 {
 }
 
 a {
-	color:#6C7373;
+	color:#173E3A;
 	text-decoration:none;
 }
 
 a:hover {
-	color:#000000;
+	color:#A51417;
+	text-decoration:none;
+}
+
+a_redbg {
+	color:#007360;
+	text-decoration:none;
+}
+
+a_redbg:hover {
+	color:#E1C4AC;
 	text-decoration:none;
 }
 

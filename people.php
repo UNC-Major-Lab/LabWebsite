@@ -22,9 +22,7 @@
 						<div class="sliderContainer">
 							<div class="sliderFrame">
 								<div id="slider" class="slider">
-									<img src="img/lab/lab1.jpg" alt="" />
 									<img src="img/lab/lab4.jpg" alt="" />
-									<img src="img/lab/lab3.jpg" alt="" />
 									<img src="img/lab/lab5.jpg" alt="" />
 									<img src="img/lab/lab2.jpg" alt="" />
 								</div>
@@ -42,7 +40,7 @@
 											<h3> Principal Investigator </h3>
 											<img class="personImg" alt="Dr. Ben Major" src="img/ben.png"/>
 											<p><strong>Ben Major, PhD <a href="files/ben_biosketch.pdf" target="_blank">(Biosketch)</a></strong></p>
-											<a href="mailto:ben_major@med.unc.edu" target="_blank">ben_major@med.unc.edu</a>
+											<a href="mailto:bmajor@wustl.edu" target="_blank">bmajor@wustl.edu</a>
 											<p class="desc"></p>
 										</div>
 									</td>

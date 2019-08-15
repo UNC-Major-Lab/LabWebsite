@@ -22,20 +22,19 @@
 						<div id="contact">
 							<p>
 								<b>Dr. Michael Ben Major</b><br/>
-								<a href="mailto:ben_major@med.unc.edu" target="_blank">ben_major@med.unc.edu</a><br/>
+								<a href="mailto:bmajor@wustl.edu" target="_blank">bmajor@wustl.edu</a><br/>
 								Associate Professor<br/>
-								Lineberger Cancer Center<br/>
+								Washington University School of Medicine<br/>
 								Department of Cell Biology &amp; Physiology<br/>
-								University of North Carolina at Chapel Hill<br/>
+								Washington University in St. Louis<br/>
 								<br/>
-								31-322 Lineberger Cancer Center<br/>
-								450 West Drive<br/>
-								University of North Carolina<br/>
-								Chapel Hill, NC 27599-7295<br/>
+								Ben Major Lab<br/>
+								4624 Cancer Research Building<br/>
+								4523 Clayton Avenue - Box 8228<br/>
+								St. Louis, MO 63110<br/>
 								<br/>
-								Office: (919) 966-9835<br/>
-								Lab: (919) 966-9258<br/>
-								Fax: (919) 966-9673<br/>
+								Office: (314) 273-3675<br/>
+								Lab: (314) 273-3669<br/>
 							</p>
 						</div>
 						<div id="map_canvas">

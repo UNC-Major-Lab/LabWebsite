@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<?php include "header.html"?>
-	<link rel="canonical" href="cancer.unc.edu/majorlab/" />
+	<link rel="canonical" href="majorlab.wustl.edu" />
 	<title>Major Lab</title>
 	<script type="text/javascript" src="js/PPI.js"></script>
 	<script type="text/javascript">

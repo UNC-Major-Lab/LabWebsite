@@ -22,9 +22,11 @@
 						<div class="sliderContainer">
 							<div class="sliderFrame">
 								<div id="slider" class="slider">
+									<img src="img/lab/lab7.jpg" alt="" />
 									<img src="img/lab/lab4.jpg" alt="" />
 									<img src="img/lab/lab5.jpg" alt="" />
 									<img src="img/lab/lab2.jpg" alt="" />
+									<img src="img/lab/lab6.jpg" alt="" />
 								</div>
 							</div>
 						</div>

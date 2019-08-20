@@ -23,14 +23,13 @@
 							<p>
 								<b>Dr. Michael Ben Major</b><br/>
 								<a href="mailto:bmajor@wustl.edu" target="_blank">bmajor@wustl.edu</a><br/>
-								Associate Professor<br/>
+								Professor<br/>
 								Washington University School of Medicine<br/>
 								Department of Cell Biology &amp; Physiology<br/>
 								Washington University in St. Louis<br/>
 								<br/>
 								Ben Major Lab<br/>
 								4624 Cancer Research Building<br/>
-								4523 Clayton Avenue - Box 8228<br/>
 								St. Louis, MO 63110<br/>
 								<br/>
 								Office: (314) 273-3675<br/>

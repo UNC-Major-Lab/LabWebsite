@@ -88,7 +88,7 @@
 											<img class="personImg" alt="Kyle LaPak" src="img/kyle.jpg"/>
 											<p><strong>Kyle LaPak</strong></p>
 											<a href="mailto:kyle.lapak@wustl.edu">kyle.lapak@wustl.edu</a>
-											<p class="desc">Team Dark Kinome.</p>
+											<p class="desc">Team Keap/Nrf and Dark Kinome.</p>
 										</div>
 									</td>
 									<td>

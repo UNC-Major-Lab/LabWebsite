@@ -1,7 +1,7 @@
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-34593564-1']);
-_gaq.push(['_setCookiePath', '/majorlab/']);
-/*_gaq.push(['_setDomainName', 'unc.edu']);
+/*_gaq.push(['_setCookiePath', '/majorlab/']);
+_gaq.push(['_setDomainName', 'unc.edu']);
 _gaq.push(['_setAllowLinker', true]);*/
 _gaq.push(['_trackPageview']);
 

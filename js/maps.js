@@ -1,8 +1,8 @@
 function initialize() {
 
-    var lineberger = new google.maps.LatLng(35.903182, -79.053606);
+    var cancerresearch = new google.maps.LatLng(38.634519,-90.2629874);
     var mapOptions = {
-        center: lineberger,
+        center: cancerresearch,
         zoom: 16,
 	disableDefaultUI: true,
 	panControl: false,
@@ -17,7 +17,7 @@ function initialize() {
 				  mapOptions);
 
     var marker = new google.maps.Marker({
-	position: lineberger,
+	position: cancerresearch,
 	title: "Major Lab!"
     });
 

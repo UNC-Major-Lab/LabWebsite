@@ -3,33 +3,33 @@
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 	xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 	<url> 
-		<loc>http://cancer.unc.edu/majorlab/</loc> 
+		<loc>http://majorlab.wustl.edu</loc> 
 	</url>
 	<url> 
-		<loc>http://cancer.unc.edu/majorlab/research.php</loc> 
+		<loc>http://majorlab.wustl.edu/research.php</loc> 
 	</url>
 	<url> 
-		<loc>http://cancer.unc.edu/majorlab/people.php</loc> 
+		<loc>http://majorlab.wustl.edu/people.php</loc> 
 	</url>
 	<url> 
-		<loc>http://cancer.unc.edu/majorlab/equipment.php</loc> 
+		<loc>http://majorlab.wustl.edu/equipment.php</loc> 
 	</url>
 	<url> 
-		<loc>http://cancer.unc.edu/majorlab/news.php</loc> 
+		<loc>http://majorlab.wustl.edu/news.php</loc> 
 	</url>
 	<url> 
-		<loc>http://cancer.unc.edu/majorlab/contact.php</loc> 
+		<loc>http://majorlab.wustl.edu/contact.php</loc> 
 	</url>
 	<url> 
-		<loc>http://cancer.unc.edu/majorlab/publications.php</loc> 
+		<loc>http://majorlab.wustl.edu/publications.php</loc> 
 	</url>
 	<url> 
-		<loc>http://cancer.unc.edu/majorlab/software.php</loc> 
+		<loc>http://majorlab.wustl.edu/software.php</loc> 
 	</url>
 	<url> 
-		<loc>http://cancer.unc.edu/majorlab/positions.php</loc> 
+		<loc>http://majorlab.wustl.edu/positions.php</loc> 
 	</url>
 	<url> 
-		<loc>http://cancer.unc.edu/majorlab/reagents.php</loc> 
+		<loc>http://majorlab.wustl.edu/reagents.php</loc> 
 	</url>
 </urlset>

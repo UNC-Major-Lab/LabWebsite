@@ -4,7 +4,7 @@
 
 .slider {
     width:934px;height:300px;/* Make it the same size as your images */
-    background:#fff url(../img/loading.gif) no-repeat 50% 50%;
+    background:#fff url(../img/common/loading.gif) no-repeat 50% 50%;
     position:relative;
     margin:0 auto;/*make the image slider center-aligned */
     box-shadow: 0px 1px 5px #999999;
@@ -18,7 +18,7 @@
 	display:none;
 }
 
-/* the link style (if an image is wrapped in a link) */
+/* the link common (if an image is wrapped in a link) */
 .slider a.imgLink {
 	z-index:2;
 	display:none;position:absolute;

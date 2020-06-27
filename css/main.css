@@ -228,7 +228,7 @@ summary {
     width:344px;
     float:left;
     overflow:hidden;
-    background:url("../img/cells.png") repeat-x scroll left top;
+    background:url("../img/home/cells.png") repeat-x scroll left top;
 }
 
 #splash-right {
@@ -455,7 +455,7 @@ div.content {
     padding: 5px 4px 5px 10px;
     position:relative;
     right:50%;
-    background: url("../img/menu_new.png") no-repeat center left;
+    background: url("../img/common/menu_new.png") no-repeat center left;
 }
 
 .ul-div ul li span {

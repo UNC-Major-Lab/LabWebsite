@@ -1,5 +1,6 @@
 AddDefaultCharset UTF-8
-DirectoryIndex index.php
+DirectoryIndex index.html
+RedirectMatch "/(.*)\.php" /$1.html
 # 480 weeks
 <filesMatch "\.(ico|pdf|jpg|jpeg|png|gif)$">
 Header set Cache-Control "max-age=290304000, public"

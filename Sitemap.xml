@@ -6,30 +6,27 @@
 		<loc>http://majorlab.wustl.edu</loc> 
 	</url>
 	<url> 
-		<loc>http://majorlab.wustl.edu/research.php</loc> 
+		<loc>http://majorlab.wustl.edu/research.html</loc>
 	</url>
 	<url> 
-		<loc>http://majorlab.wustl.edu/people.php</loc> 
+		<loc>http://majorlab.wustl.edu/people.html</loc>
 	</url>
 	<url> 
-		<loc>http://majorlab.wustl.edu/equipment.php</loc> 
+		<loc>http://majorlab.wustl.edu/equipment.html</loc>
 	</url>
 	<url> 
-		<loc>http://majorlab.wustl.edu/news.php</loc> 
+		<loc>http://majorlab.wustl.edu/news.html</loc>
 	</url>
 	<url> 
-		<loc>http://majorlab.wustl.edu/contact.php</loc> 
+		<loc>http://majorlab.wustl.edu/contact.html</loc>
 	</url>
 	<url> 
-		<loc>http://majorlab.wustl.edu/publications.php</loc> 
+		<loc>http://majorlab.wustl.edu/publications.html</loc>
 	</url>
 	<url> 
-		<loc>http://majorlab.wustl.edu/software.php</loc> 
+		<loc>http://majorlab.wustl.edu/software.html</loc>
 	</url>
 	<url> 
-		<loc>http://majorlab.wustl.edu/positions.php</loc> 
-	</url>
-	<url> 
-		<loc>http://majorlab.wustl.edu/reagents.php</loc> 
+		<loc>http://majorlab.wustl.edu/positions.html</loc>
 	</url>
 </urlset>
